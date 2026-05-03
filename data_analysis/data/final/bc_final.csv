@@ -1,0 +1,842 @@
+STT,Ma,Hang,DVT,Tien_Nhap,SL_Xuat_KM,SL_Xuat,Tien_Xuat,Doanh_Thu,Ngay_Xuat,Khach_Hang,Profit,Month,Promo,Revenue
+1,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,691200,0,96,1036800,345600,2023-01-09,Xuân Bình - M.Hiệp,-345600,1.0,False,3600.0
+2,TLM,Tẩy toilet Liên Minh (nguyên liệu nhập khẩu) x 12 chai,Chai,800040,0,60,1100040,300000,2023-01-09,Xuân Bình - M.Hiệp,-500040,1.0,False,5000.0
+3,NG3600,"Nước giặt Kimono 6 in 1 (tím) x 3,6kg x 4 bình",Bình,365000,0,4,480000,115000,2023-01-09,Bé Bắp - N.Mỹ,-250000,1.0,False,28750.0
+4,KV1002,Khăn Napkin TiOne nâu 100 tờ x 30 gói,Gói,1296000,0,180,1692000,396000,2023-01-09,Căn tin BV Phổi( Chị Duyên) - BV phổi,-900000,1.0,False,2200.0
+5,BCTEM32,BCTE N32 (xe) x 12 x 30 hộp,Cây,46800,0,6,66000,19200,2023-01-09,MP Nhanh - M.Hiệp,-27600,1.0,False,3200.0
+6,BCTEM35,BCTE N35 (búp bê) x 12 x 30 hộp,Cây,46800,0,6,66000,19200,2023-01-09,MP Nhanh - M.Hiệp,-27600,1.0,False,3200.0
+7,BCTEN36,BCTE N36 (đồng hồ) x 18 x 20 hộp,Cây,46800,0,6,66000,19200,2023-01-09,MP Nhanh - M.Hiệp,-27600,1.0,False,3200.0
+8,KU100,Khăn ướt Begin 100 tờ x 20 gói,Gói,340000,5,20,480000,140000,2023-01-09,MP Nhanh - M.Hiệp,-200000,1.0,True,7000.0
+9,KV1003,Khăn vuông TiOne xanh 100 tờ X 30 gói,Gói,0,10,0,-90000,-90000,2023-04-09,Chị Nga - HCL,-90000,4.0,True,0.0
+10,KV320,Khăn Napkin Fairy 320 x 100 tờ x 48 gói,Gói,528000,0,48,576000,48000,2023-04-09,Chị Nga - HCL,-480000,4.0,False,1000.0
+11,KV320,Khăn Napkin Fairy 320 x 100 tờ x 48 gói,Gói,1056000,0,96,960000,-96000,2023-04-09,Mỹ Nhân - N.Mỹ,-1152000,4.0,False,-1000.0
+12,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,0,48,576000,230400,2023-04-09,Điện thoại Tuấn - N.Mỹ,-115200,4.0,False,4800.0
+13,KV320,Khăn Napkin Fairy 320 x 100 tờ x 48 gói,Gói,0,6,0,-60000,-60000,2023-04-09,Điện thoại Tuấn - N.Mỹ,-60000,4.0,True,0.0
+14,BG1000,Bột giặt 107 Thái 100% - 1kg x 12 gói/thùng,Gói,0,0,0,0,0,2023-04-09,4 Điều - M.Trắng,0,4.0,False,0.0
+15,XV20,Nước xả vải Hygiene 20ml x 30 dây,Dây,0,0,0,0,0,2023-04-09,Bé Bắp - N.Mỹ,0,4.0,False,0.0
+16,A1K15,Kẹo bạc hà (chanh muối) Himalaya 15g x 12 gói x 12 hộp,Hộp,120756,0,2,112000,-8756,2023-04-09,TT Hải Hà - HCL,-129512,4.0,False,-4378.0
+17,KDL01,Khăn giấy bỏ túi Paseo 9 tờ x 6 gói/cây x 40 cây,Cây,39312,0,4,46000,6688,2023-04-09,TT Hải Hà - HCL,-32624,4.0,False,1672.0
+18,TBTE20003,Tăm bông thân giấy TE hộp chữ nhật 200 cây x 12 hộp,Hộp,231000,0,12,240000,9000,2023-04-09,TT Hải Hà - HCL,-222000,4.0,False,750.0
+19,DCTD708,Dao cạo Dorco vàng TD 708 (12 cây x 40 vỉ),Vỉ,52800,0,2,72000,19200,2023-04-09,TH Trương Vy - A.Bình 2,-33600,4.0,False,9600.0
+20,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,77000,0,10,100000,23000,2023-04-09,TH Trương Vy - A.Bình 2,-54000,4.0,False,2300.0
+21,KKDN300,Khăn khô đa năng 300gr x 30 gói,Gói,792000,0,20,792000,0,2023-04-09,Thế Giới Con Cưng - HCL,-792000,4.0,False,0.0
+22,GC615,GVS Phú An 6 cuộn x 12 cây,Cây,0,0,0,0,0,2023-04-09,Hải Vân - HCL (Thanh Mỹ),0,4.0,False,0.0
+23,KMQCT,Quạt SENKO 1216 chân thấp,Cây,0,1,0,-233000,-233000,2023-04-09,Chị Tuyết - HCL (N.Mỹ),-233000,4.0,True,0.0
+24,KU1506,Khăn ướt Lovely (khổ lớn) 150g x 30 gói,Gói,570000,0,60,1080000,510000,2023-04-09,Chị Tuyết - HCL (N.Mỹ),-60000,4.0,False,8500.0
+25,KV1011,Khăn Napkin EMos x 30 gói,Gói,200010,0,30,240000,39990,2023-04-09,Chị Tuyết - HCL (N.Mỹ),-160020,4.0,False,1333.0
+26,XV20,Nước xả vải Hygiene 20ml x 30 dây,Dây,0,0,0,0,0,2023-04-09,Chị Tuyết - HCL (N.Mỹ),0,4.0,False,0.0
+27,HTF3000,Nước giặt Fineline tím 3L x 4 bình,Bình,340000,0,4,520000,180000,2023-05-09,TH Trương Vy - A.Bình 2,-160000,5.0,False,45000.0
+28,KV1011,Khăn Napkin EMos x 30 gói,Gói,200010,0,30,220500,20490,2023-06-09,Thanh Nhàn - N.Mỹ,-179520,6.0,False,683.0
+29,CG50,Chân gà cay ăn liền ZL FOOD loại 50g x 30 x 7 túi,Cái,165000,0,30,195000,30000,2023-07-09,Hồng Hạnh - P.Mỹ (cầu Trâu Trắng),-135000,7.0,False,1000.0
+30,CG501,Chân gà cay ăn liền ZL FOOD Acao 50g x 30 x 7 túi,Cái,165000,0,30,195000,30000,2023-07-09,Hồng Hạnh - P.Mỹ (cầu Trâu Trắng),-135000,7.0,False,1000.0
+31,NV004,Núm vú cổ hẹp size XL,Hộp,240000,0,1,250000,10000,2023-07-09,Hồng Hạnh - P.Mỹ (cầu Trâu Trắng),-230000,7.0,False,10000.0
+32,NV101,Núm vú cổ rộng size S,Hộp,240000,0,1,250000,10000,2023-07-09,Hồng Hạnh - P.Mỹ (cầu Trâu Trắng),-230000,7.0,False,10000.0
+33,GC606,GVS TiOne Gấu 6 cuộn x 12 cây,Cây,0,0,0,0,0,2023-11-09,TT Hoàng Yến - M.Long,0,11.0,False,0.0
+34,GC609,GVS Panda 6 cuộn x 12 cây x 10kg,Cây,0,0,0,0,0,2023-11-09,TT Hoàng Yến - M.Long,0,11.0,False,0.0
+35,HM601,HIMA DAILY (new) 6 lọ x 6 hộp,Hộp,768000,1,4,960000,192000,2023-11-09,TT Hoàng Yến - M.Long,-576000,11.0,True,48000.0
+36,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,4,48,576000,230400,2023-11-09,TT Hoàng Yến - M.Long,-115200,11.0,True,4800.0
+37,NG5000,Nước giặt Kimono 6 in 1 vuông (tím) 5Kg x 4 bình,Bình,0,4,0,-600000,-600000,2023-11-09,Minh Hiền (chị Ớ) - B.H.Trung,-600000,11.0,True,0.0
+38,NG50002,Nước giặt Kimono 6 in 1 vuông (đen) 5kg x 4 bình,Bình,920000,0,8,1800000,880000,2023-11-09,Minh Hiền (chị Ớ) - B.H.Trung,-40000,11.0,False,110000.0
+39,TNS1,Tẩy toilet Nam Sơn NK 100% 1L x 12 chai,Chai,190008,0,12,276000,85992,2023-11-09,Chị Xuyên - M.Long,-104016,11.0,False,7166.0
+40,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,4,48,532000,186400,2023-11-09,Chị Linh (bán bọc) - HCL,-159200,11.0,True,3883.3333333333335
+41,TB10003,Tăm bông thân trúc túi 100 cây x 24 túi,Túi,735000,24,120,750000,15000,2023-11-09,TT Ngọc Hạnh - Đ.Mối,-720000,11.0,True,125.0
+42,JA1KG,Javel 1L x 12 chai,Chai,90000,2,12,132000,42000,2023-11-09,TH Trinh (Mỹ Trinh) - HCL (cuối chợ),-48000,11.0,True,3500.0
+43,JA2KG,Javel 2L x 6 chai,Chai,0,0,0,0,0,2023-11-09,TH Trinh (Mỹ Trinh) - HCL (cuối chợ),0,11.0,False,0.0
+44,BT001,Bông tắm không mút cao cấp x 12 cái,Cái,84000,0,6,84000,0,2023-11-09,TT Nguyễn Thị Định - M.Xương,-84000,11.0,False,0.0
+45,GC605,GVS Ruby 6 cuộn Mèo (không lõi) x 10 cây,Cây,290000,1,10,355000,65000,2023-11-09,TT Nguyễn Thị Định - M.Xương,-225000,11.0,True,6500.0
+46,HTCTBC180,Cốc thả bồn cầu 180g x 24 hũ,Hủ,52500,0,2,60000,7500,2023-11-09,TT Nguyễn Thị Định - M.Xương,-45000,11.0,False,3750.0
+47,KU102,Khăn ướt không mùi cao cấp (AT-12) x 24 gói,Gói,120835,0,5,125000,4165,2023-11-09,TT Nguyễn Thị Định - M.Xương,-116670,11.0,False,833.0
+48,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,77000,0,10,100000,23000,2023-11-09,TT Nguyễn Thị Định - M.Xương,-54000,11.0,False,2300.0
+49,TC1800,"Thông cống 1,8L x 10 chai",Chai,59000,0,2,80000,21000,2023-11-09,TT Nguyễn Thị Định - M.Xương,-38000,11.0,False,10500.0
+50,TB20002,Tăm bông thân nhựa NL hộp tròn 200 cây x 12 hộp,Hộp,388512,6,24,384000,-4512,2023-11-09,TT Trung Tuấn - B.H.Tây,-393024,11.0,True,-188.0
+51,TBTE20002,Tăm bông thân nhựa TE hộp tròn 200 cây x 12 hộp,Hộp,178500,0,12,216000,37500,2023-11-09,TT Trung Tuấn - B.H.Tây,-141000,11.0,False,3125.0
+52,A1Y601,A1 Yến sào có nhân sâm 70ml x 6 lọ x 6 hộp,Hộp,0,1,0,0,0,2023-11-09,Vương Quốc Sữa - B.H.Trung,0,11.0,True,0.0
+53,GC100,GVS cuộn trắng rẻ (xá) x 10 cây,Bao,0,0,0,0,0,2023-11-09,Vương Quốc Sữa - B.H.Trung,0,11.0,False,0.0
+54,HM10,Yến sào Finenest nhân sâm x 10 hộp,Hộp,95000,0,1,218000,123000,2023-11-09,Vương Quốc Sữa - B.H.Trung,28000,11.0,False,123000.0
+55,HM603,HIMA Vinnest 6 lọ KĐ x 6 hộp,Hộp,100000,1,1,218000,118000,2023-11-09,Vương Quốc Sữa - B.H.Trung,18000,11.0,True,118000.0
+56,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,100000,0,1,218000,118000,2023-11-09,Vương Quốc Sữa - B.H.Trung,18000,11.0,False,118000.0
+57,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,100000,0,1,218000,118000,2023-11-09,Vương Quốc Sữa - B.H.Trung,18000,11.0,False,118000.0
+58,KU100,Khăn ướt Begin 100 tờ x 20 gói,Gói,102000,0,6,144000,42000,2023-11-09,Vương Quốc Sữa - B.H.Trung,-60000,11.0,False,7000.0
+59,KU1506,Khăn ướt Lovely (khổ lớn) 150g x 30 gói,Gói,285000,0,30,420000,135000,2023-11-09,Chị Oanh - M.Long,-150000,11.0,False,4500.0
+60,KU801,Khăn ướt Baby (đỏ) 80g x 50 gói,Gói,80000,0,20,130000,50000,2023-11-09,Chị Oanh - M.Long,-30000,11.0,False,2500.0
+61,KV1007,Khăn Napkin An An 100 tờ x 40 gói,Gói,270000,0,40,300000,30000,2023-11-09,Chị Oanh - M.Long,-240000,11.0,False,750.0
+62,JA2KG,Javel 2L x 6 chai,Chai,90000,0,6,144000,54000,2023-11-09,Thiên Phú - M.Long,-36000,11.0,False,9000.0
+63,CG50,Chân gà cay ăn liền ZL FOOD loại 50g x 30 x 7 túi,Cái,0,0,0,0,0,2023-12-09,Trung Phụng - T.H.Trung,0,12.0,False,0.0
+64,CG501,Chân gà cay ăn liền ZL FOOD Acao 50g x 30 x 7 túi,Cái,0,0,0,0,0,2023-12-09,Trung Phụng - T.H.Trung,0,12.0,False,0.0
+65,HTK151,Kẹo Tommy trái cây 15g x 12 gói x 12 dây,Dây,0,0,0,0,0,2023-12-09,Trung Phụng - T.H.Trung,0,12.0,False,0.0
+66,KU100,Khăn ướt Begin 100 tờ x 20 gói,Gói,340000,0,20,500000,160000,2023-12-09,Sữa tả Hoàng Trúc - HCL (T.Mỹ),-180000,12.0,False,8000.0
+67,HTK151,Kẹo Tommy trái cây 15g x 12 gói x 12 dây,Dây,0,0,0,0,0,2023-12-09,Su Trường - T.H.Trung,0,12.0,False,0.0
+68,KTN3001,Kẹo Trang Nghiêm DÂU TÂY hộp 200g x 24 hộp/thùng,Hộp,43500,0,3,42000,-1500,2023-12-09,Su Trường - T.H.Trung,-45000,12.0,False,-500.0
+69,KTN3002,Kẹo Trang Nghiêm DÂU TẰM hộp 200g x 24 hộp/thùng,Hộp,58000,0,4,56000,-2000,2023-12-09,Su Trường - T.H.Trung,-60000,12.0,False,-500.0
+70,KTN3003,Kẹo Trang Nghiêm ME ỚT hộp 200g x 24 hộp/thùng,Hộp,43500,0,3,42000,-1500,2023-12-09,Su Trường - T.H.Trung,-45000,12.0,False,-500.0
+71,A1K15,Kẹo bạc hà (chanh muối) Himalaya 15g x 12 gói x 12 hộp,Hộp,362268,1,6,340000,-22268,,TT Đông Nghi - P.Mỹ,-384536,,True,-3711.3333333333335
+72,BG1000,Bột giặt 107 Thái 100% - 1kg x 12 gói/thùng,Gói,0,0,0,0,0,,Anh Nghiệp (Cậu 2 Nhựt) - Ngã 4,0,,False,0.0
+73,BG32001,"Bột giặt 109 Thái 100% - 3,2kg x 4 gói/thùng",Gói,305000,0,4,424000,119000,,Anh Nghiệp (Cậu 2 Nhựt) - Ngã 4,-186000,,False,29750.0
+74,LLDORCOTITAN,Lưỡi lam Dorco Titan 10 lưỡi x 10 lốc x 10 hộp,Hộp,294000,1,6,310000,16000,,Anh Nghiệp (Cậu 2 Nhựt) - Ngã 4,-278000,,True,2666.6666666666665
+75,KV1009,Khăn Napkin TiOne Gấu 100 tờ x 48 gói,Gói,144000,0,24,192000,48000,,Thanh Tâm - Ngã 4,-96000,,False,2000.0
+76,A1BTE50CR,A1 Bánh trẻ em vị cà rốt 50g x 24 hộp,Hộp,0,0,0,0,0,,TH An ( Lê Đà) - Ngã 4,0,,False,0.0
+77,A1BTE50RC,A1 Bánh trẻ em vị gà và rau củ 50g x 24 hộp,Hộp,0,0,0,0,0,,TH An ( Lê Đà) - Ngã 4,0,,False,0.0
+78,A1BTE50TT,A1 Bánh trẻ em vị truyền thống 50g x 24 hộp,Hộp,0,0,0,0,0,,TH An ( Lê Đà) - Ngã 4,0,,False,0.0
+79,BSOGI121,Bánh SOGI CHOCOLATE WITH STRAWBERRY CREAM 12g x 24 cây x 6 hủ,Hủ,63000,0,1,69000,6000,,Thế giới sữa Tony - T.Nghĩa,-57000,,False,6000.0
+80,CG26,Chân gà rút xương cay ăn liền ZL FOOD 26g x 20 x 10 túi,Cái,110000,0,20,130000,20000,,Thế giới sữa Tony - T.Nghĩa,-90000,,False,1000.0
+81,CG50,Chân gà cay ăn liền ZL FOOD loại 50g x 30 x 7 túi,Cái,165000,0,30,195000,30000,,Thế giới sữa Tony - T.Nghĩa,-135000,,False,1000.0
+82,CG501,Chân gà cay ăn liền ZL FOOD Acao 50g x 30 x 7 túi,Cái,165000,0,30,195000,30000,,Thế giới sữa Tony - T.Nghĩa,-135000,,False,1000.0
+83,NLREDBULL2,RedBull ThaiLan nắp hình,Block,0,0,0,0,0,,Thế giới sữa Tony - T.Nghĩa,0,,False,0.0
+84,SD1000,Sữa đặc Creamer có đường 1kg x 24 lon,Lon,820800,0,24,840000,19200,,Thế giới sữa Tony - T.Nghĩa,-801600,,False,800.0
+85,CC16,Cacao Passion 3 in 1 (16g x 10s x 80 dây),Dây,138000,0,6,162000,24000,,5 Phụng - T.Nghĩa,-114000,,False,4000.0
+86,KTN3001,Kẹo Trang Nghiêm DÂU TÂY hộp 200g x 24 hộp/thùng,Hộp,72500,0,5,70000,-2500,,5 Phụng - T.Nghĩa,-75000,,False,-500.0
+87,KTN3002,Kẹo Trang Nghiêm DÂU TẰM hộp 200g x 24 hộp/thùng,Hộp,72500,0,5,70000,-2500,,5 Phụng - T.Nghĩa,-75000,,False,-500.0
+88,KTN3003,Kẹo Trang Nghiêm ME ỚT hộp 200g x 24 hộp/thùng,Hộp,72500,0,5,70000,-2500,,5 Phụng - T.Nghĩa,-75000,,False,-500.0
+89,SD1000,Sữa đặc Creamer có đường 1kg x 24 lon,Lon,171000,0,5,175000,4000,,5 Phụng - T.Nghĩa,-167000,,False,800.0
+90,KDL1301,Khăn du lịch GIA PHÁT 3 lớp x 130 tờ x 100 gói,Gói,42000,1,12,72000,30000,,Tường Sang - T.Nghĩa,-12000,,True,2500.0
+91,KR500,Khăn rút lụa NAROTO 2 lớp x 500 tờ x 50 gói,Gói,70400,2,8,136000,65600,,Tường Sang - T.Nghĩa,-4800,,True,8200.0
+92,SRT500,"SRT tự nhiên (hồng, tím, đỏ, xanh) 500ml x 20 chai",Chai,77500,1,5,175000,97500,,Tường Sang - T.Nghĩa,20000,,True,19500.0
+93,CC16,Cacao Passion 3 in 1 (16g x 10s x 80 dây),Dây,46000,0,2,56000,10000,,An Nhiên - T.Nghĩa,-36000,,False,5000.0
+94,CG50,Chân gà cay ăn liền ZL FOOD loại 50g x 30 x 7 túi,Cái,110000,0,20,130000,20000,,An Nhiên - T.Nghĩa,-90000,,False,1000.0
+95,SD1000,Sữa đặc Creamer có đường 1kg x 24 lon,Lon,171000,0,5,175000,4000,,An Nhiên - T.Nghĩa,-167000,,False,800.0
+96,TBND500,Nước Yến Nha Đam (Pet) 500ml x 24 chai,Thùng,163485,0,1,175000,11515,,An Nhiên - T.Nghĩa,-151970,,False,11515.0
+97,GC606,GVS TiOne Gấu 6 cuộn x 12 cây,Cây,0,0,0,0,0,,Cô Dọ - T.Linh,0,,False,0.0
+98,JA1KG,Javel 1L x 12 chai,Chai,0,2,0,0,0,,Đạt Hường - P.Thịnh,0,,True,0.0
+99,JA350G,Javel 350ml x 30 chai,Chai,90000,0,30,165000,75000,,Đạt Hường - P.Thịnh,-15000,,False,2500.0
+100,JA500G,Javel 550ml x 24 chai,Chai,90000,0,24,168000,78000,,Đạt Hường - P.Thịnh,-12000,,False,3250.0
+101,HTBSN80,Snack bắp Otori vị Phô Mai 80g x 12,Lon,55440,0,2,64000,8560,,Mỹ Hạnh - HCL,-46880,,False,4280.0
+102,HTBSN90,Snack bắp Otori vị Gà cay 90g x 12,Lon,55440,0,2,64000,8560,,Mỹ Hạnh - HCL,-46880,,False,4280.0
+103,HTBSN902,Snack bắp Otori vị Tomyum Kung 90g x 12,Lon,55440,0,2,64000,8560,,Mỹ Hạnh - HCL,-46880,,False,4280.0
+104,HTBSN903,Snack bắp Otori vị Rong Biển 90g x 12,Lon,83160,0,3,96000,12840,,Mỹ Hạnh - HCL,-70320,,False,4280.0
+105,HTBSN904,Snack bắp Otori vị Dừa 80g x 12,Lon,83160,0,3,96000,12840,,Mỹ Hạnh - HCL,-70320,,False,4280.0
+106,KV1001,Khăn Napkin Ruby Gold 100 tờ x 30 gói,Gói,450000,0,60,480000,30000,,Mỹ Hạnh - HCL,-420000,,False,500.0
+107,NSSK555,Saka 555ml x 24 chai,Thùng,390000,0,5,390000,0,,Mỹ Hạnh - HCL,-390000,,False,0.0
+108,KU100,Khăn ướt Begin 100 tờ x 20 gói,Gói,340000,0,20,500000,160000,,TT Hải Châu - T.H.Trung,-180000,,False,8000.0
+109,BTT160,Bông tẩy trang 160 miếng x 120 cây,Cây,144000,0,6,180000,36000,,TT Ngọc Trinh - B.H.Trung,-108000,,False,6000.0
+110,KDL01,Khăn giấy bỏ túi Paseo 9 tờ x 6 gói/cây x 40 cây,Cây,98280,0,10,115000,16720,,TT Ngọc Trinh - B.H.Trung,-81560,,False,1672.0
+111,TBTE1001,Tăm bông thân nhựa TE túi 100 cây x 24 túi,Túi,126000,4,24,168000,42000,,TT Ngọc Trinh - B.H.Trung,-84000,,True,1750.0
+112,GC106,GVS Ruby (HQ) 10 cuộn x 8kg,Cây,180000,0,10,220000,40000,,Chị Thắm (Hồng Thắm) - B.H.Tây,-140000,,False,4000.0
+113,GC617,GVS TiOne hồng 6 cuộn x 12 cây,Cây,265716,0,12,360000,94284,,Chị Thắm (Hồng Thắm) - B.H.Tây,-171432,,False,7857.0
+114,GC617,GVS TiOne hồng 6 cuộn x 12 cây,Cây,265716,0,12,360000,94284,,4 Điều - M.Trắng,-171432,,False,7857.0
+115,KTN3001,Kẹo Trang Nghiêm DÂU TÂY hộp 200g x 24 hộp/thùng,Hộp,43500,0,3,42000,-1500,,TT Hữu Nghị - M.Trắng,-45000,,False,-500.0
+116,KTN3002,Kẹo Trang Nghiêm DÂU TẰM hộp 200g x 24 hộp/thùng,Hộp,58000,0,4,56000,-2000,,TT Hữu Nghị - M.Trắng,-60000,,False,-500.0
+117,KTN3003,Kẹo Trang Nghiêm ME ỚT hộp 200g x 24 hộp/thùng,Hộp,43500,0,3,42000,-1500,,TT Hữu Nghị - M.Trắng,-45000,,False,-500.0
+118,KV1009,Khăn Napkin TiOne Gấu 100 tờ x 48 gói,Gói,288000,0,48,360000,72000,,Chị Đào - T.H.Trung,-216000,,False,1500.0
+119,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,300000,0,3,654000,354000,,TH Ngân (chị Ngân) - T.H.Trung,54000,,False,118000.0
+120,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,300000,0,3,654000,354000,,TH Ngân (chị Ngân) - T.H.Trung,54000,,False,118000.0
+121,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,0,6,0,-720000,-720000,,TH Ngân (chị Ngân) - T.H.Trung,-720000,,True,0.0
+122,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,5,48,521000,175400,,Chị Hạnh - M.Trắng,-170200,,True,3654.1666666666665
+123,GC617,GVS TiOne hồng 6 cuộn x 12 cây,Cây,265716,1,12,377000,111284,,Kim Quyên - M.Trắng,-154432,,True,9273.666666666666
+124,XM6007,Xịt muỗi 600ml x 30 chai,Chai,216000,0,12,264000,48000,,Kim Quyên - M.Trắng,-168000,,False,4000.0
+125,GC6010,GVS Fairy cuộn CN 600g x 10 cuộn,Cuộn,267000,2,10,270000,3000,,Như Ý - M.Trắng,-264000,,True,300.0
+126,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,5,48,521000,175400,,Như Ý - M.Trắng,-170200,,True,3654.1666666666665
+127,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,5,48,521000,175400,,Uốn tóc Kim Phụng - M.Trắng,-170200,,True,3654.1666666666665
+128,CC16,Cacao Passion 3 in 1 (16g x 10s x 80 dây),Dây,138000,0,6,162000,24000,,Chú 7 Vân - B.H.Tây,-114000,,False,4000.0
+129,HM600,HIMA Yến Huyết 6 lọ x 6 hộp,Hộp,1215000,0,6,1620000,405000,,Chú 7 Vân - B.H.Tây,-810000,,False,67500.0
+130,HM601,HIMA DAILY (new) 6 lọ x 6 hộp,Hộp,1152000,0,6,1440000,288000,,Chú 7 Vân - B.H.Tây,-864000,,False,48000.0
+131,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,0,6,0,-720000,-720000,,Chú 7 Vân - B.H.Tây,-720000,,True,0.0
+132,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,0,6,0,-720000,-720000,,Chú 7 Vân - B.H.Tây,-720000,,True,0.0
+133,HM609,HIMA Hoa Hồng 35% yến 6 lọ x 6 hộp,Hộp,900000,0,6,1308000,408000,,Chú 7 Vân - B.H.Tây,-492000,,False,68000.0
+134,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,600000,0,6,1308000,708000,,Chú 7 Vân - B.H.Tây,108000,,False,118000.0
+135,KMKLR4N,"Kệ lắp ráp 3 tầng 30cm x 35cm x 70cm x 1,2m",Bộ,0,0,0,0,0,,Chú 7 Vân - B.H.Tây,0,,False,0.0
+136,KV1009,Khăn Napkin TiOne Gấu 100 tờ x 48 gói,Gói,1440000,0,240,1920000,480000,,Chú 7 Vân - B.H.Tây,-960000,,False,2000.0
+137,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,5,48,526000,180400,,6 Trạng - M.Trắng,-165200,,True,3758.3333333333335
+138,NG3600,"Nước giặt Kimono 6 in 1 (tím) x 3,6kg x 4 bình",Bình,182500,0,2,260000,77500,,6 Trạng - M.Trắng,-105000,,False,38750.0
+139,NG36002,"Nước giặt Kimono 6 in 1 (đen) x 3,6kg x 4 bình",Bình,182500,0,2,260000,77500,,6 Trạng - M.Trắng,-105000,,False,38750.0
+140,KV1009,Khăn Napkin TiOne Gấu 100 tờ x 48 gói,Gói,288000,0,48,360000,72000,,Chị Thủy (đồ nhựa) - T.H.Trung,-216000,,False,1500.0
+141,GC603,GVS Ruby Gold 6 cuộn (không lõi) x 12 cây,Cây,300000,1,12,409000,109000,,TT Kim Dung - M.Hiệp,-191000,,True,9083.333333333334
+142,KU80,Khăn ướt đa năng Begin 80g x 20 gói,Gói,111000,0,6,162000,51000,,TT Kim Dung - M.Hiệp,-60000,,False,8500.0
+143,NLSDN280,Sữa đậu nành nguyên chất 280ml x 24 chai,Thùng,162000,0,1,180000,18000,,TT Kim Dung - M.Hiệp,-144000,,False,18000.0
+144,TC301,Tăm chỉ nha khoa 30 chiếc x 10 hộp,Hộp,110000,0,10,160000,50000,,TT Kim Dung - M.Hiệp,-60000,,False,5000.0
+145,KMNL7731,Nồi lẩu điện Comet 7731,Cái,0,1,0,-370000,-370000,,Thế Giới Con Cưng - HCL,-370000,,True,0.0
+146,KU1506,Khăn ướt Lovely (khổ lớn) 150g x 30 gói,Gói,855000,0,90,1620000,765000,,Thế Giới Con Cưng - HCL,-90000,,False,8500.0
+147,KV1009,Khăn Napkin TiOne Gấu 100 tờ x 48 gói,Gói,288000,0,48,408000,120000,,Trinh Nữ - M.Trắng,-168000,,False,2500.0
+148,SD1000,Sữa đặc Creamer có đường 1kg x 24 lon,Lon,820800,0,24,840000,19200,,Trinh Nữ - M.Trắng,-801600,,False,800.0
+149,A1K15,Kẹo bạc hà (chanh muối) Himalaya 15g x 12 gói x 12 hộp,Hộp,362268,1,6,340000,-22268,,TT Bảo Hạnh - M.Trắng,-384536,,True,-3711.3333333333335
+150,BSOGI12,Bánh SOGI CHOCOLATE 12g x 24 cây x 6 hủ,Hủ,63000,0,1,70000,7000,,Ngọc Khánh ( Mỹ Khánh ) - M.Trắng,-56000,,False,7000.0
+151,BSOGI121,Bánh SOGI CHOCOLATE WITH STRAWBERRY CREAM 12g x 24 cây x 6 hủ,Hủ,63000,0,1,70000,7000,,Ngọc Khánh ( Mỹ Khánh ) - M.Trắng,-56000,,False,7000.0
+152,CG501,Chân gà cay ăn liền ZL FOOD Acao 50g x 30 x 7 túi,Cái,165000,0,30,195000,30000,,Ngọc Khánh ( Mỹ Khánh ) - M.Trắng,-135000,,False,1000.0
+153,HM605,HIMA Canxi & Cơ Xương Khớp KĐ 6 lọ x 6 hộp,Hộp,900000,0,6,1500000,600000,,Ngọc Khánh ( Mỹ Khánh ) - M.Trắng,-300000,,False,100000.0
+154,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,0,6,0,-720000,-720000,,Ngọc Khánh ( Mỹ Khánh ) - M.Trắng,-720000,,True,0.0
+155,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,0,12,0,-1440000,-1440000,,Ngọc Khánh ( Mỹ Khánh ) - M.Trắng,-1440000,,True,0.0
+156,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,600000,0,6,1308000,708000,,Ngọc Khánh ( Mỹ Khánh ) - M.Trắng,108000,,False,118000.0
+157,HM611,Yến sào Seunest Huyết x 6 hộp,Hộp,660000,0,6,1368000,708000,,Ngọc Khánh ( Mỹ Khánh ) - M.Trắng,48000,,False,118000.0
+158,TB10003,Tăm bông thân trúc túi 100 cây x 24 túi,Túi,147000,5,24,180000,33000,,Ngọc Khánh ( Mỹ Khánh ) - M.Trắng,-114000,,True,1375.0
+159,TT01,Thanh toán lần 1,VNĐ,0,0,0,-1356000,-1356000,,Ngọc Khánh ( Mỹ Khánh ) - M.Trắng,-1356000,,False,0.0
+160,XM6007,Xịt muỗi 600ml x 30 chai,Chai,540000,0,30,630000,90000,,Ngọc Khánh ( Mỹ Khánh ) - M.Trắng,-450000,,False,3000.0
+161,SD1000,Sữa đặc Creamer có đường 1kg x 24 lon,Lon,820800,0,24,816000,-4800,,Thảo Vy - HCL,-825600,,False,-200.0
+162,KTN3001,Kẹo Trang Nghiêm DÂU TÂY hộp 200g x 24 hộp/thùng,Hộp,58000,0,4,56000,-2000,,Tuấn Kiệt - M.Long,-60000,,False,-500.0
+163,KTN3002,Kẹo Trang Nghiêm DÂU TẰM hộp 200g x 24 hộp/thùng,Hộp,58000,0,4,56000,-2000,,Tuấn Kiệt - M.Long,-60000,,False,-500.0
+164,KTN3003,Kẹo Trang Nghiêm ME ỚT hộp 200g x 24 hộp/thùng,Hộp,58000,0,4,56000,-2000,,Tuấn Kiệt - M.Long,-60000,,False,-500.0
+165,TBME500,Nước Me ThaiLan (Pet) 500ml x 24 chai,Thùng,163485,0,1,175000,11515,,Tuấn Kiệt - M.Long,-151970,,False,11515.0
+166,GC32,Giấy cân 32 (1kg x 10 bịch),Bịch,504000,2,12,473000,-31000,,Thông Thảo - P.Mỹ (QL30),-535000,,True,-2583.3333333333335
+167,GC606,GVS TiOne Gấu 6 cuộn x 12 cây,Cây,620016,4,24,762000,141984,,TT Hoàng Yến - M.Long,-478032,,True,5916.0
+168,SBOMGROW900,SURE OMEGA-GROW IQ 900G,Lon,637200,0,3,716400,79200,,TT Hoàng Yến - M.Long,-558000,,False,26400.0
+169,GC1202,GVS Toply 12 cuộn x 12 cây,Cây,467508,1,12,444000,-23508,,Mỹ Hạnh - HCL,-491016,,True,-1959.0
+170,GC606,GVS TiOne Gấu 6 cuộn x 12 cây,Cây,620016,4,24,762000,141984,,Chị Xuyên - M.Long,-478032,,True,5916.0
+171,A1K15,Kẹo bạc hà (chanh muối) Himalaya 15g x 12 gói x 12 hộp,Hộp,301890,0,5,260000,-41890,,TT Minh Huệ - B.H.Trung,-343780,,False,-8378.0
+172,KDL01,Khăn giấy bỏ túi Paseo 9 tờ x 6 gói/cây x 40 cây,Cây,98280,0,10,115000,16720,,Hoàng Huyên - M.Long,-81560,,False,1672.0
+173,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,1728000,0,240,2880000,1152000,,Hoàng Huyên - M.Long,-576000,,False,4800.0
+174,TBTE1001,Tăm bông thân nhựa TE túi 100 cây x 24 túi,Túi,378000,12,72,432000,54000,,TT Ngọc Hạnh - Đ.Mối,-324000,,True,750.0
+175,A1Y600,A1 Yến đường phèn 70ml x 6 lọ x 6 hộp,Hộp,3000000,6,12,3360000,360000,,Kim Hường - B.H.Tây,-2640000,,True,30000.0
+176,KMBTIGER,Bia Tiger lon,Thùng,0,1,0,-375000,-375000,,Kim Hường - B.H.Tây,-375000,,True,0.0
+177,KV320,Khăn Napkin Fairy 320 x 100 tờ x 48 gói,Gói,1056000,0,96,912000,-144000,,Mỹ Nhân - N.Mỹ,-1200000,,False,-1500.0
+178,GC606,GVS TiOne Gấu 6 cuộn x 12 cây,Cây,310008,1,12,410000,99992,,Chị Đào - T.H.Trung,-210016,,True,8332.666666666666
+179,BCN189,BC KAKA NANO N189 x 30 x 10 hộp,Cây,144000,0,30,210000,66000,,TT Đông Nguyên - M.Long,-78000,,False,2200.0
+180,BCX6,BC KAKA NANO X6 x 20 x 15 lốc,Cây,40000,0,20,140000,100000,,TT Đông Nguyên - M.Long,60000,,False,5000.0
+181,GC106,GVS Ruby (HQ) 10 cuộn x 8kg,Cây,180000,0,10,220000,40000,,Ngọc Như - M.Long,-140000,,False,4000.0
+182,GC612,GVS GLEE 6 cuộn x 12 cây,Cây,265008,0,12,360000,94992,,Ngọc Như - M.Long,-170016,,False,7916.0
+183,KV1011,Khăn Napkin EMos x 30 gói,Gói,200010,0,30,210000,9990,,Ngọc Như - M.Long,-190020,,False,333.0
+184,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,4,48,532000,186400,,TH Trinh (Mỹ Trinh) - HCL (cuối chợ),-159200,,True,3883.3333333333335
+185,TC1000,Thông cống 1L x 18 chai,Chai,131112,1,8,178000,46888,,Chị Thủy (đồ nhựa) - T.H.Trung,-84224,,True,5861.0
+186,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,0,6,0,-660000,-660000,,Tố Quyên - T.H.Trung,-660000,,True,0.0
+187,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,600000,0,6,1308000,708000,,Tố Quyên - T.H.Trung,108000,,False,118000.0
+188,TNS1,Tẩy toilet Nam Sơn NK 100% 1L x 12 chai,Chai,190008,0,12,312000,121992,,Tuyết Lài ( Chị Lài) - B.H.Trung,-68016,,False,10166.0
+189,KV1001,Khăn Napkin Ruby Gold 100 tờ x 30 gói,Gói,225000,0,30,330000,105000,,Thế Giới Con Cưng - HCL,-120000,,False,3500.0
+190,KV1002,Khăn Napkin TiOne nâu 100 tờ x 30 gói,Gói,0,5,0,-50000,-50000,,Thế Giới Con Cưng - HCL,-50000,,True,0.0
+191,VMS002,VM Kẹo Thạch 500g (500g x 20 túi),Túi,232810,0,10,325000,92190,,Thế Giới Con Cưng - HCL,-140620,,False,9219.0
+192,TC1000,Thông cống 1L x 18 chai,Chai,131112,1,8,178000,46888,,Dung Vũ (đồ nhựa) - T.H.Trung,-84224,,True,5861.0
+193,KV1011,Khăn Napkin EMos x 30 gói,Gói,200010,0,30,240000,39990,,Chị Tuyết - HCL (N.Mỹ),-160020,,False,1333.0
+194,HM10,Yến sào Finenest nhân sâm x 10 hộp,Hộp,0,0,0,0,0,,Chị Lan - T.H.Trung,0,,False,0.0
+195,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,0,0,0,0,0,,Chị Lan - T.H.Trung,0,,False,0.0
+196,NRC400,NRC 107 - 400ml x 24 chai,Chai,0,0,0,0,0,,Gas Hồng Ngọc - M.Hội,0,,False,0.0
+197,NRC400,NRC 107 - 400ml x 24 chai,Chai,950880,0,120,1380000,429120,,Gas Hồng Ngọc - M.Hội,-521760,,False,3576.0
+198,HTBD12,Bánh đũa Gap Dâu tây 12g x 12 hộp x 12,Hộp,42084,0,1,48000,5916,,Thế giới sữa Tony - T.Nghĩa,-36168,,False,5916.0
+199,HTBD121,Bánh đũa Gap Sô cô la 12g x 12 hộp x 12,Hộp,42084,0,1,48000,5916,,Thế giới sữa Tony - T.Nghĩa,-36168,,False,5916.0
+200,NLREDBULL1,RedBull ThaiLan,Block,0,0,0,0,0,,Thế giới sữa Tony - T.Nghĩa,0,,False,0.0
+201,KGC10,KHÔ GÀ CAY - 10 GR x 500 gói,Gói,90000,0,25,100000,10000,,Chị Nhung - T.Nghĩa,-80000,,False,400.0
+202,KGLC10,KHÔ GÀ LÁ CHANH - 10 GR x 500 gói,Gói,90000,0,25,100000,10000,,Chị Nhung - T.Nghĩa,-80000,,False,400.0
+203,KL100,Khăn lạnh Happy Life dày (xanh lá) 20 cái x 100 túi,Túi,22000,0,5,30000,8000,,Chị Nhung - T.Nghĩa,-14000,,False,1600.0
+204,KTN802,Kẹo Trang Nghiêm ME ỚT 80gr x 100 gói/thùng,Gói,105000,0,20,140000,35000,,Chị Nhung - T.Nghĩa,-70000,,False,1750.0
+205,KU801,Khăn ướt Baby (đỏ) 80g x 50 gói,Gói,40000,0,10,65000,25000,,Chị Nhung - T.Nghĩa,-15000,,False,2500.0
+206,KU802,Khăn ướt TiOne 80g x 40 gói,Gói,55000,0,10,65000,10000,,Chị Nhung - T.Nghĩa,-45000,,False,1000.0
+207,NG5000,Nước giặt Kimono 6 in 1 vuông (tím) 5Kg x 4 bình,Bình,115000,0,1,168000,53000,,Chị Nhung - T.Nghĩa,-62000,,False,53000.0
+208,NG50002,Nước giặt Kimono 6 in 1 vuông (đen) 5kg x 4 bình,Bình,115000,0,1,168000,53000,,Chị Nhung - T.Nghĩa,-62000,,False,53000.0
+209,NGT3600,"Nước giặt Kimono (đen) 3,6kg x 5 túi",Túi,74000,0,1,108000,34000,,Chị Nhung - T.Nghĩa,-40000,,False,34000.0
+210,NGT36001,"Nước giặt Kimono (tím) 3,6kg x 5 túi",Túi,74000,0,1,108000,34000,,Chị Nhung - T.Nghĩa,-40000,,False,34000.0
+211,KU802,Khăn ướt TiOne 80g x 40 gói,Gói,55000,0,10,60000,5000,,Ngọc Huyền - Gáo Giồng,-50000,,False,500.0
+212,KV1007,Khăn Napkin An An 100 tờ x 40 gói,Gói,67500,0,10,75000,7500,,Ngọc Huyền - Gáo Giồng,-60000,,False,750.0
+213,KV1011,Khăn Napkin EMos x 30 gói,Gói,66670,0,10,75000,8330,,Ngọc Huyền - Gáo Giồng,-58340,,False,833.0
+214,CG50,Chân gà cay ăn liền ZL FOOD loại 50g x 30 x 7 túi,Cái,82500,0,15,97500,15000,,Ngọc Thắm - T.Nghĩa,-67500,,False,1000.0
+215,CG501,Chân gà cay ăn liền ZL FOOD Acao 50g x 30 x 7 túi,Cái,82500,0,15,97500,15000,,Ngọc Thắm - T.Nghĩa,-67500,,False,1000.0
+216,DCKAKA,Dao cạo Kaka thay lưỡi (6 cây x 80 vỉ),Vỉ,24000,0,1,30000,6000,,Ngọc Thắm - T.Nghĩa,-18000,,False,6000.0
+217,KV1007,Khăn Napkin An An 100 tờ x 40 gói,Gói,270000,0,40,280000,10000,,Lợi Thủy - Gáo Giồng,-260000,,False,250.0
+218,XM6007,Xịt muỗi 600ml x 30 chai,Chai,90000,0,5,95000,5000,,Lợi Thủy - Gáo Giồng,-85000,,False,1000.0
+219,DCKAKA,Dao cạo Kaka thay lưỡi (6 cây x 80 vỉ),Vỉ,24000,0,1,30000,6000,,Thu Trang - T.Nghĩa,-18000,,False,6000.0
+220,DCTD708,Dao cạo Dorco vàng TD 708 (12 cây x 40 vỉ),Vỉ,26400,0,1,36000,9600,,Thu Trang - T.Nghĩa,-16800,,False,9600.0
+221,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,100000,1,1,108000,8000,,Chị Bích - T.Linh,-92000,,True,8000.0
+222,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,100000,1,1,108000,8000,,Chị Bích - T.Linh,-92000,,True,8000.0
+223,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,100000,1,1,108000,8000,,Chị Bích - T.Linh,-92000,,True,8000.0
+224,GC603,GVS Ruby Gold 6 cuộn (không lõi) x 12 cây,Cây,300000,1,12,410000,110000,,Ánh Tuyết (Tuyết Thành) - T.Linh,-190000,,True,9166.666666666666
+225,GC612,GVS GLEE 6 cuộn x 12 cây,Cây,265008,0,12,360000,94992,,Căn tin BV Phổi( Chị Duyên) - BV phổi,-170016,,False,7916.0
+226,KV1002,Khăn Napkin TiOne nâu 100 tờ x 30 gói,Gói,1296000,0,180,1692000,396000,,Căn tin BV Phổi( Chị Duyên) - BV phổi,-900000,,False,2200.0
+227,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,600000,6,6,648000,48000,,Tuấn Quyên - P.Thịnh,-552000,,True,8000.0
+228,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,600000,6,6,648000,48000,,Tuấn Quyên - P.Thịnh,-552000,,True,8000.0
+229,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,600000,6,6,648000,48000,,Tuấn Quyên - P.Thịnh,-552000,,True,8000.0
+230,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,600000,6,6,648000,48000,,Đạt Hường - P.Thịnh,-552000,,True,8000.0
+231,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,0,6,0,-660000,-660000,,Chị Thúy - Gáo Giồng,-660000,,True,0.0
+232,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,600000,0,6,1308000,708000,,Chị Thúy - Gáo Giồng,108000,,False,118000.0
+233,HM613,HIMA Seunest DTHT có đường 6 lọ x 6 hộp,Hộp,0,1,0,-186000,-186000,,Minh Hiền (chị Ớ) - B.H.Trung,-186000,,True,0.0
+234,HM614,HIMA Seunest Colagen có đường 6 lọ x 6 hộp,Hộp,260000,0,2,560000,300000,,Minh Hiền (chị Ớ) - B.H.Trung,40000,,False,150000.0
+235,TB20001,Tăm bông thân gỗ hộp 200 cây x 12 hộp,Hộp,399000,6,24,461000,62000,,Chị Nga - HCL,-337000,,True,2583.3333333333335
+236,TBTE20002,Tăm bông thân nhựa TE hộp tròn 200 cây x 12 hộp,Hộp,178500,0,12,216000,37500,,Chị Nga - HCL,-141000,,False,3125.0
+237,NRC38001,"NRC KIMONO 3,6kg x 4 bình",Bình,90000,1,3,180000,90000,,Tuyết Lan - B.H.Tây,0,,True,30000.0
+238,GC109,GVS Toply 10 cuộn x 10 cây,Cây,186500,1,5,195000,8500,,TT Kim Thoa - M.Long,-178000,,True,1700.0
+239,HTKDR16001,KDR Closeup 160g x 6 cây x 12 block,Cây,110004,0,6,144000,33996,,TT Kim Thoa - M.Long,-76008,,False,5666.0
+240,KDL01,Khăn giấy bỏ túi Paseo 9 tờ x 6 gói/cây x 40 cây,Cây,9828,0,1,11500,1672,,TT Kim Thoa - M.Long,-8156,,False,1672.0
+241,TC301,Tăm chỉ nha khoa 30 chiếc x 10 hộp,Hộp,220000,0,20,280000,60000,,TT Đông Nguyên - M.Long,-160000,,False,3000.0
+242,GC100,GVS cuộn trắng rẻ (xá) x 10 cây,Bao,171000,0,3,210000,39000,,Ngọc Như - M.Long,-132000,,False,13000.0
+243,JA2KG,Javel 2L x 6 chai,Chai,90000,0,6,138000,48000,,Ngọc Như - M.Long,-42000,,False,8000.0
+244,KU80,Khăn ướt đa năng Begin 80g x 20 gói,Gói,185000,0,10,260000,75000,,Ngọc Như - M.Long,-110000,,False,7500.0
+245,BCOCEAN,BÀN CHẢI ĐÁNH RĂNG ION - OCEAN,Cây,2304000,0,48,1920000,-384000,,MP Nhanh - M.Hiệp,-2688000,,False,-8000.0
+246,KMQCL,Quạt SENKO 1638 chân lỡ,Cây,0,1,0,-282000,-282000,,MP Nhanh - M.Hiệp,-282000,,True,0.0
+247,KV1001,Khăn Napkin Ruby Gold 100 tờ x 30 gói,Gói,225000,0,30,330000,105000,,Tuyết Lài ( Chị Lài) - B.H.Trung,-120000,,False,3500.0
+248,KV1002,Khăn Napkin TiOne nâu 100 tờ x 30 gói,Gói,0,8,0,-64000,-64000,,Tuyết Lài ( Chị Lài) - B.H.Trung,-64000,,True,0.0
+249,BCTEELEPHAN,BÀN CHẢI ĐÁNH RĂNG TE ION - ELEPHAN,Cây,540000,4,12,540000,0,,Thế Giới Con Cưng - HCL,-540000,,True,0.0
+250,BCTEPANDA,BÀN CHẢI ĐÁNH RĂNG TE ION - PANDA,Cây,1152000,3,36,1070000,-82000,,Thế Giới Con Cưng - HCL,-1234000,,True,-2277.777777777778
+251,KMNL7731,Nồi lẩu điện Comet 7731,Cái,0,1,0,0,0,,Thế Giới Con Cưng - HCL,0,,True,0.0
+252,TBTE20003,Tăm bông thân giấy TE hộp chữ nhật 200 cây x 12 hộp,Hộp,231000,2,12,288000,57000,,Thế Giới Con Cưng - HCL,-174000,,True,4750.0
+253,NLREDBULL1,RedBull ThaiLan,Block,242000,0,1,247000,5000,,Tuấn Kiệt - M.Long,-237000,,False,5000.0
+254,NLSTING,Sting ThaiLan,Block,0,0,0,0,0,,Tuấn Kiệt - M.Long,0,,False,0.0
+255,HTBTE50,Bánh gạo TE Happy Bites Việt Quất 50g x 12 hộp,Hộp,271800,0,6,276000,4200,2023-02-10,TT Đông Nguyên - M.Long,-267600,2.0,False,700.0
+256,HTBTE50,Bánh gạo TE Happy Bites Việt Quất 50g x 12 hộp,Hộp,453000,0,10,460000,7000,2023-02-10,CH sữa tả Quý Ngọc - B.H.Trung,-446000,2.0,False,700.0
+257,HTBTE50,Bánh gạo TE Happy Bites Việt Quất 50g x 12 hộp,Hộp,1087200,4,24,1004000,-83200,2023-02-10,Mẹ & Bé ( Mẹ Yêu Con) - M.Hiệp,-1170400,2.0,True,-3466.6666666666665
+258,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,77000,0,10,100000,23000,2023-03-10,Chị Thủy (đồ nhựa) - T.H.Trung,-54000,3.0,False,2300.0
+259,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,1200000,12,12,1308000,108000,2023-03-10,Chị Lan - T.H.Trung,-1092000,3.0,True,9000.0
+260,GC32,Giấy cân 32 (1kg x 10 bịch),Bịch,420000,2,10,384000,-36000,2023-05-10,Thu Thủy - P.Mỹ (cầu Trâu Trắng),-456000,5.0,True,-3600.0
+261,KV320,Khăn Napkin Fairy 320 x 100 tờ x 48 gói,Gói,2112000,48,192,2256000,144000,2023-05-10,Thu Thủy - P.Mỹ (cầu Trâu Trắng),-1968000,5.0,True,750.0
+262,TT01,Thanh toán lần 1,VNĐ,0,0,0,-1764000,-1764000,2023-05-10,Thu Thủy - P.Mỹ (cầu Trâu Trắng),-1764000,5.0,False,0.0
+263,KR1000,Khăn giấy rút đa năng Jolly 1kg x 20 gói,Gói,412911,1,9,421200,8289,2023-05-10,Hồng Hạnh - P.Mỹ (cầu Trâu Trắng),-404622,5.0,True,921.0
+264,KTN80,Kẹo Trang Nghiêm DÂU TÂY 80gr x 100 gói/thùng,Gói,26250,0,5,35000,8750,2023-05-10,TH An ( Lê Đà) - Ngã 4,-17500,5.0,False,1750.0
+265,KTN801,Kẹo Trang Nghiêm DÂU TẰM 80gr x 100 gói/thùng,Gói,26250,0,5,35000,8750,2023-05-10,TH An ( Lê Đà) - Ngã 4,-17500,5.0,False,1750.0
+266,KTN802,Kẹo Trang Nghiêm ME ỚT 80gr x 100 gói/thùng,Gói,26250,0,5,35000,8750,2023-05-10,TH An ( Lê Đà) - Ngã 4,-17500,5.0,False,1750.0
+267,HTBTE50,Bánh gạo TE Happy Bites Việt Quất 50g x 12 hộp,Hộp,181200,1,4,154000,-27200,2023-05-10,Thế giới sữa Tony - T.Nghĩa,-208400,5.0,True,-6800.0
+268,HTBTE501,Bánh gạo TE Happy Bites Táo 50g x 12 hộp,Hộp,181200,0,4,200000,18800,2023-05-10,Thế giới sữa Tony - T.Nghĩa,-162400,5.0,False,4700.0
+269,HTBTE502,Bánh gạo TE Happy Bites Chuối 50g x 12 hộp,Hộp,181200,0,4,200000,18800,2023-05-10,Thế giới sữa Tony - T.Nghĩa,-162400,5.0,False,4700.0
+270,NLREDBULL1,RedBull ThaiLan,Block,484000,0,2,498000,14000,2023-05-10,Thế giới sữa Tony - T.Nghĩa,-470000,5.0,False,7000.0
+271,HTK151,Kẹo Tommy trái cây 15g x 12 gói x 12 dây,Dây,75000,0,2,82000,7000,2023-05-10,Chị Nhung - T.Nghĩa,-68000,5.0,False,3500.0
+272,KTN80,Kẹo Trang Nghiêm DÂU TÂY 80gr x 100 gói/thùng,Gói,0,0,0,-70000,-70000,2023-05-10,Chị Nhung - T.Nghĩa,-70000,5.0,False,0.0
+273,KU203,Khăn ướt TiOne 20g x 100 gói,Gói,0,0,0,0,0,2023-05-10,Chị Nhung - T.Nghĩa,0,5.0,False,0.0
+274,KV1001,Khăn Napkin Ruby Gold 100 tờ x 30 gói,Gói,75000,1,10,110000,35000,2023-05-10,Chị Nhung - T.Nghĩa,-40000,5.0,True,3500.0
+275,SBOMGROW900,SURE OMEGA-GROW IQ 900G,Lon,424800,0,2,477600,52800,2023-06-10,TT Hoàng Yến - M.Long,-372000,6.0,False,26400.0
+276,GC32,Giấy cân 32 (1kg x 10 bịch),Bịch,420000,2,10,460000,40000,2023-06-10,Trúc Ly - Ba Sao,-380000,6.0,True,4000.0
+277,TC50,Tăm chỉ nha khoa 50 chiếc x 20 gói x 18 hộp,Gói,138000,0,12,168000,30000,2023-06-10,TT Ngọc Cát Tường - N.V.Tiếp,-108000,6.0,False,2500.0
+278,HTBTE50,Bánh gạo TE Happy Bites Việt Quất 50g x 12 hộp,Hộp,181200,0,4,184000,2800,2023-07-10,Mỹ Hạnh - HCL,-178400,7.0,False,700.0
+279,HTBTE501,Bánh gạo TE Happy Bites Táo 50g x 12 hộp,Hộp,181200,0,4,184000,2800,2023-07-10,Mỹ Hạnh - HCL,-178400,7.0,False,700.0
+280,HTBTE502,Bánh gạo TE Happy Bites Chuối 50g x 12 hộp,Hộp,45300,0,1,46000,700,2023-07-10,Mỹ Hạnh - HCL,-44600,7.0,False,700.0
+281,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,4,48,536000,190400,2023-07-10,Chị Nga - HCL,-155200,7.0,True,3966.6666666666665
+282,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,0,48,518400,172800,2023-07-10,Xuân Bình - M.Hiệp,-172800,7.0,False,3600.0
+283,TB20001,Tăm bông thân gỗ hộp 200 cây x 12 hộp,Hộp,199500,2,12,288000,88500,2023-07-10,TT Ngọc Hạnh - Đ.Mối,-111000,7.0,True,7375.0
+284,TB20002,Tăm bông thân nhựa NL hộp tròn 200 cây x 12 hộp,Hộp,194256,2,12,240000,45744,2023-07-10,TT Ngọc Hạnh - Đ.Mối,-148512,7.0,True,3812.0
+285,TBTE20003,Tăm bông thân giấy TE hộp chữ nhật 200 cây x 12 hộp,Hộp,231000,2,12,288000,57000,2023-07-10,TT Ngọc Hạnh - Đ.Mối,-174000,7.0,True,4750.0
+286,GC106,GVS Ruby (HQ) 10 cuộn x 8kg,Cây,180000,0,10,220000,40000,2023-07-10,Chị Thắm (Hồng Thắm) - B.H.Tây,-140000,7.0,False,4000.0
+287,NGT3600,"Nước giặt Kimono (đen) 3,6kg x 5 túi",Túi,148000,0,2,270000,122000,2023-07-10,Chị Thắm (Hồng Thắm) - B.H.Tây,-26000,7.0,False,61000.0
+288,NGT36001,"Nước giặt Kimono (tím) 3,6kg x 5 túi",Túi,148000,1,2,162000,14000,2023-07-10,Chị Thắm (Hồng Thắm) - B.H.Tây,-134000,7.0,True,7000.0
+289,T3501,Tẩy quần áo màu KIMONO 350ml x 30 chai,Chai,0,5,0,-55000,-55000,2023-07-10,Chị Thắm (Hồng Thắm) - B.H.Tây,-55000,7.0,True,0.0
+290,NG3600,"Nước giặt Kimono 6 in 1 (tím) x 3,6kg x 4 bình",Bình,730000,0,8,960000,230000,2023-07-10,Mỹ Nhân - N.Mỹ,-500000,7.0,False,28750.0
+291,KR1001,Khăn giấy rút lụa SSS BiBi 2 lớp x 1kg x 10 gói,Gói,480000,2,10,434000,-46000,2023-07-10,Thanh Nhã - M.Long,-526000,7.0,True,-4600.0
+292,GC605,GVS Ruby 6 cuộn Mèo (không lõi) x 10 cây,Cây,580000,2,20,709000,129000,2023-07-10,TH Trinh (Mỹ Trinh) - HCL (cuối chợ),-451000,7.0,True,6450.0
+293,HTF3000,Nước giặt Fineline tím 3L x 4 bình,Bình,340000,0,4,520000,180000,2023-07-10,TH Trương Vy - A.Bình 2,-160000,7.0,False,45000.0
+294,BCN189,BC KAKA NANO N189 x 30 x 10 hộp,Cây,144000,0,30,210000,66000,2023-07-10,Trường An - Đ.Mối,-78000,7.0,False,2200.0
+295,KU80,Khăn ướt đa năng Begin 80g x 20 gói,Gói,222000,3,12,288000,66000,2023-07-10,Trường An - Đ.Mối,-156000,7.0,True,5500.0
+296,KB01,Khăn bóp Mỹ Lan 10 gói x 60 cây,Cây,48000,0,6,51000,3000,2023-07-10,TT Kim Dung - M.Hiệp,-45000,7.0,False,500.0
+297,KDL01,Khăn giấy bỏ túi Paseo 9 tờ x 6 gói/cây x 40 cây,Cây,0,0,0,0,0,2023-07-10,TT Kim Dung - M.Hiệp,0,7.0,False,0.0
+298,KU203,Khăn ướt TiOne 20g x 100 gói,Gói,0,0,0,0,0,2023-07-10,TT Kim Dung - M.Hiệp,0,7.0,False,0.0
+299,KU801,Khăn ướt Baby (đỏ) 80g x 50 gói,Gói,40000,0,10,70000,30000,2023-07-10,TT Kim Dung - M.Hiệp,-10000,7.0,False,3000.0
+300,BCTE005,BCTE chữ U x 600 cây,Cây,120000,0,12,168000,48000,2023-07-10,Thế Giới Con Cưng - HCL,-72000,7.0,False,4000.0
+301,HTBTE50,Bánh gạo TE Happy Bites Việt Quất 50g x 12 hộp,Hộp,362400,3,8,400000,37600,2023-07-10,Thế Giới Con Cưng - HCL,-324800,7.0,True,4700.0
+302,HTBTE501,Bánh gạo TE Happy Bites Táo 50g x 12 hộp,Hộp,362400,0,8,267000,-95400,2023-07-10,Thế Giới Con Cưng - HCL,-457800,7.0,False,-11925.0
+303,HTBTE502,Bánh gạo TE Happy Bites Chuối 50g x 12 hộp,Hộp,362400,0,8,400000,37600,2023-07-10,Thế Giới Con Cưng - HCL,-324800,7.0,False,4700.0
+304,KDR001,Kem đánh răng bộ (KDR + BC) x 144 bộ,Bộ,279996,2,12,288000,8004,2023-07-10,Thế Giới Con Cưng - HCL,-271992,7.0,True,667.0
+305,KKDN300,Khăn khô đa năng 300gr x 30 gói,Gói,1069200,3,27,1070000,800,2023-07-10,Thế Giới Con Cưng - HCL,-1068400,7.0,True,29.62962962962963
+306,KU801,Khăn ướt Baby (đỏ) 80g x 50 gói,Gói,0,0,0,0,0,2023-07-10,Chị Cúc (Bạch Cúc) - HCL ,0,7.0,False,0.0
+307,KV320,Khăn Napkin Fairy 320 x 100 tờ x 48 gói,Gói,0,0,0,0,0,2023-07-10,Chị Cúc (Bạch Cúc) - HCL ,0,7.0,False,0.0
+308,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,300000,3,3,327000,27000,2023-07-10,Cô 7 - X.Quýt,-273000,7.0,True,9000.0
+309,KV1007,Khăn Napkin An An 100 tờ x 40 gói,Gói,270000,0,40,320000,50000,2023-07-10,Chị Thùy - X.Quýt,-220000,7.0,False,1250.0
+310,KR1000,Khăn giấy rút đa năng Jolly 1kg x 20 gói,Gói,1835160,5,40,1849000,13840,,Thanh Trang - HCL,-1821320,,True,346.0
+311,HTBTE30,Bánh TE Munchies Chuối & Bí Đỏ 30g x 12 hộp,Hộp,633600,0,12,720000,86400,,TT Minh Phương - T.H.Trung,-547200,,False,7200.0
+312,HTBTE301,Bánh TE Munchies Mâm Xôi & Củ Dền 30g x 12 hộp,Hộp,633600,3,12,560000,-73600,,TT Minh Phương - T.H.Trung,-707200,,True,-6133.333333333333
+313,HTBTE50,Bánh gạo TE Happy Bites Việt Quất 50g x 12 hộp,Hộp,362400,3,8,267000,-95400,,TT Minh Phương - T.H.Trung,-457800,,True,-11925.0
+314,HTBTE501,Bánh gạo TE Happy Bites Táo 50g x 12 hộp,Hộp,362400,0,8,400000,37600,,TT Minh Phương - T.H.Trung,-324800,,False,4700.0
+315,HTBTE502,Bánh gạo TE Happy Bites Chuối 50g x 12 hộp,Hộp,362400,0,8,400000,37600,,TT Minh Phương - T.H.Trung,-324800,,False,4700.0
+316,KR5003,Khăn rút lụa TiOne HQ xanh 500 tờ x 25 gói,Gói,0,10,0,-160000,-160000,,5 Phụng - T.Nghĩa,-160000,,True,0.0
+317,KU50001,Khăn ướt đa năng TiOne 50 tờ x 24 gói,Gói,300000,0,20,540000,240000,,5 Phụng - T.Nghĩa,-60000,,False,12000.0
+318,CG50,Chân gà cay ăn liền ZL FOOD loại 50g x 30 x 7 túi,Cái,82500,0,15,97500,15000,,An Nhiên - T.Nghĩa,-67500,,False,1000.0
+319,CG501,Chân gà cay ăn liền ZL FOOD Acao 50g x 30 x 7 túi,Cái,82500,0,15,97500,15000,,An Nhiên - T.Nghĩa,-67500,,False,1000.0
+320,HTBD12,Bánh đũa Gap Dâu tây 12g x 12 hộp x 12,Hộp,42084,0,1,48000,5916,,An Nhiên - T.Nghĩa,-36168,,False,5916.0
+321,HTBD121,Bánh đũa Gap Sô cô la 12g x 12 hộp x 12,Hộp,42084,0,1,48000,5916,,An Nhiên - T.Nghĩa,-36168,,False,5916.0
+322,HTBD12,Bánh đũa Gap Dâu tây 12g x 12 hộp x 12,Hộp,42084,0,1,48000,5916,,Ngọc Thắm - T.Nghĩa,-36168,,False,5916.0
+323,HTBD121,Bánh đũa Gap Sô cô la 12g x 12 hộp x 12,Hộp,42084,0,1,48000,5916,,Ngọc Thắm - T.Nghĩa,-36168,,False,5916.0
+324,JA500G,Javel 550ml x 24 chai,Chai,90000,2,24,168000,78000,,Ngọc Thắm - T.Nghĩa,-12000,,True,3250.0
+325,KTN80,Kẹo Trang Nghiêm DÂU TÂY 80gr x 100 gói/thùng,Gói,36750,0,7,49000,12250,,Ngọc Thắm - T.Nghĩa,-24500,,False,1750.0
+326,KTN801,Kẹo Trang Nghiêm DÂU TẰM 80gr x 100 gói/thùng,Gói,36750,0,7,49000,12250,,Ngọc Thắm - T.Nghĩa,-24500,,False,1750.0
+327,KTN802,Kẹo Trang Nghiêm ME ỚT 80gr x 100 gói/thùng,Gói,31500,0,6,42000,10500,,Ngọc Thắm - T.Nghĩa,-21000,,False,1750.0
+328,NGT2000,Nước giặt Kimono (đen) 2kg x 6 túi,Túi,116000,0,2,150000,34000,,Ngọc Thắm - T.Nghĩa,-82000,,False,17000.0
+329,NGT2001,Nước giặt Kimono (tím) 2kg x 6 túi,Túi,116000,0,2,150000,34000,,Ngọc Thắm - T.Nghĩa,-82000,,False,17000.0
+330,NGT2002,Nước giặt Kimono (hồng) 2kg x 6 túi,Túi,58000,0,1,75000,17000,,Ngọc Thắm - T.Nghĩa,-41000,,False,17000.0
+331,NGT2003,Nước giặt Kimono (vàng) 2kg x 6 túi,Túi,58000,0,1,75000,17000,,Ngọc Thắm - T.Nghĩa,-41000,,False,17000.0
+332,NRC1500,"NRC 107 - 1,5L x 8 bình",Bình,0,1,0,0,0,,Ngọc Thắm - T.Nghĩa,0,,True,0.0
+333,NRC400,NRC 107 - 400ml x 24 chai,Chai,190176,0,24,276000,85824,,Ngọc Thắm - T.Nghĩa,-104352,,False,3576.0
+334,NRC750,NRC 107 - 750ml x 16 chai,Chai,212384,0,16,304000,91616,,Ngọc Thắm - T.Nghĩa,-120768,,False,5726.0
+335,GC100,GVS cuộn trắng rẻ (xá) x 10 cây,Bao,57000,0,1,75000,18000,,Thu Trang - T.Nghĩa,-39000,,False,18000.0
+336,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,4,48,536000,190400,,Chị Linh (bán bọc) - HCL,-155200,,True,3966.6666666666665
+337,GC606,GVS TiOne Gấu 6 cuộn x 12 cây,Cây,0,1,0,-31000,-31000,,Chị Đào - T.H.Trung,-31000,,True,0.0
+338,KV1009,Khăn Napkin TiOne Gấu 100 tờ x 48 gói,Gói,288000,0,48,360000,72000,,Chị Đào - T.H.Trung,-216000,,False,1500.0
+339,GC613,GVS TiOne (HQ) xanh 6 cuộn x 12 cây,Cây,155004,0,6,222000,66996,,Uốn tóc Kim Phụng - M.Trắng,-88008,,False,11166.0
+340,GC617,GVS TiOne hồng 6 cuộn x 12 cây,Cây,0,1,0,-31000,-31000,,Uốn tóc Kim Phụng - M.Trắng,-31000,,True,0.0
+341,NG3600,"Nước giặt Kimono 6 in 1 (tím) x 3,6kg x 4 bình",Bình,1460000,0,16,1840000,380000,,Bé Bắp - N.Mỹ,-1080000,,False,23750.0
+342,NG36002,"Nước giặt Kimono 6 in 1 (đen) x 3,6kg x 4 bình",Bình,365000,0,4,460000,95000,,Bé Bắp - N.Mỹ,-270000,,False,23750.0
+343,NG36002,"Nước giặt Kimono 6 in 1 (đen) x 3,6kg x 4 bình",Bình,365000,2,4,520000,155000,,6 Trạng - M.Trắng,-210000,,True,38750.0
+344,NGT2000,Nước giặt Kimono (đen) 2kg x 6 túi,Túi,290000,1,5,375000,85000,,6 Trạng - M.Trắng,-205000,,True,17000.0
+345,GC106,GVS Ruby (HQ) 10 cuộn x 8kg,Cây,180000,0,10,200000,20000,,Hiệp Hòa (dì Hồng) - HCL,-160000,,False,2000.0
+346,DCTD708,Dao cạo Dorco vàng TD 708 (12 cây x 40 vỉ),Vỉ,211200,1,8,256000,44800,,TH Bình Minh - M.Trắng,-166400,,True,5600.0
+347,GC606,GVS TiOne Gấu 6 cuộn x 12 cây,Cây,310008,0,12,444000,133992,,TH Bình Minh - M.Trắng,-176016,,False,11166.0
+348,GC617,GVS TiOne hồng 6 cuộn x 12 cây,Cây,0,2,0,-63000,-63000,,TH Bình Minh - M.Trắng,-63000,,True,0.0
+349,KU1505,Khăn ướt TE TiOne 150g x 30 gói,Gói,0,0,0,0,0,,TH Bình Minh - M.Trắng,0,,False,0.0
+350,KU2501,Khăn ướt TiOne (khổ lớn) 250g x 20 gói,Gói,230000,5,20,352000,122000,,TH Bình Minh - M.Trắng,-108000,,True,6100.0
+351,LK500,"Lau kính (kháng khuẩn, khủ mùi) 500ml x 24 chai",Chai,348000,1,24,415000,67000,,TH Bình Minh - M.Trắng,-281000,,True,2791.6666666666665
+352,HTBTE30,Bánh TE Munchies Chuối & Bí Đỏ 30g x 12 hộp,Hộp,1267200,2,24,1301200,34000,,Mẹ & Bé (Hồng Nhung) - M.Long,-1233200,,True,1416.6666666666667
+353,HTBTE301,Bánh TE Munchies Mâm Xôi & Củ Dền 30g x 12 hộp,Hộp,1267200,2,24,1301200,34000,,Mẹ & Bé (Hồng Nhung) - M.Long,-1233200,,True,1416.6666666666667
+354,HTBTE50,Bánh gạo TE Happy Bites Việt Quất 50g x 12 hộp,Hộp,2174400,8,48,2008000,-166400,,Mẹ & Bé (Hồng Nhung) - M.Long,-2340800,,True,-3466.6666666666665
+355,HTBTE501,Bánh gạo TE Happy Bites Táo 50g x 12 hộp,Hộp,2174400,8,48,2008000,-166400,,Mẹ & Bé (Hồng Nhung) - M.Long,-2340800,,True,-3466.6666666666665
+356,HTBTE502,Bánh gạo TE Happy Bites Chuối 50g x 12 hộp,Hộp,2174400,8,48,2008000,-166400,,Mẹ & Bé (Hồng Nhung) - M.Long,-2340800,,True,-3466.6666666666665
+357,TT01,Thanh toán lần 1,VNĐ,0,0,0,-7878000,-7878000,,Mẹ & Bé (Hồng Nhung) - M.Long,-7878000,,False,0.0
+358,NV102,Núm vú cổ rộng size M,Hộp,0,0,0,0,0,,Thế Giới Con Cưng - HCL,0,,False,0.0
+359,NV103,Núm vú cổ rộng size L,Hộp,240000,0,1,240000,0,,Thế Giới Con Cưng - HCL,-240000,,False,0.0
+360,TNS1,Tẩy toilet Nam Sơn NK 100% 1L x 12 chai,Chai,190008,0,12,312000,121992,,9 Tiến - M.Trắng,-68016,,False,10166.0
+361,GC101,GVS TiOne 10 cuộn xanh x 10 cây,Cây,110000,0,10,170000,60000,,4 Xinh - M.Trắng,-50000,,False,6000.0
+362,GC606,GVS TiOne Gấu 6 cuộn x 12 cây,Cây,310008,0,12,384000,73992,,4 Xinh - M.Trắng,-236016,,False,6166.0
+363,KV320,Khăn Napkin Fairy 320 x 100 tờ x 48 gói,Gói,528000,0,48,480000,-48000,,4 Xinh - M.Trắng,-576000,,False,-1000.0
+364,BCTENEKO1,BÀN CHẢI ĐÁNH RĂNG TE ION - NEKO plus,Cây,500000,4,10,358000,-142000,,Mẹ & Bé ( Mẹ Yêu Con) - M.Hiệp,-642000,,True,-14200.0
+365,XM6007,Xịt muỗi 600ml x 30 chai,Chai,540000,0,30,630000,90000,,Tuấn Kiệt - M.Long,-450000,,False,3000.0
+366,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,600000,6,6,654000,54000,,TH Ngân (chị Ngân) - T.H.Trung,-546000,,True,9000.0
+367,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,400000,0,4,540000,140000,,TH Trương Vy - A.Bình 2,-260000,,False,35000.0
+368,KV1002,Khăn Napkin TiOne nâu 100 tờ x 30 gói,Gói,1296000,0,180,1692000,396000,,Căn tin BV Phổi( Chị Duyên) - BV phổi,-900000,,False,2200.0
+369,GC10,V/S Bibi không lõi x 10 dây,Dây,130000,0,5,120000,-10000,,MP Út Tuyền - B.Sao,-140000,,False,-2000.0
+370,GC1023,V/S Bibi có lõi x 10 dây,Dây,122500,0,5,120000,-2500,,MP Út Tuyền - B.Sao,-125000,,False,-500.0
+371,GC603,GVS Ruby Gold 6 cuộn (không lõi) x 12 cây,Cây,150000,0,6,222000,72000,,MP Út Tuyền - B.Sao,-78000,,False,12000.0
+372,GC606,GVS TiOne Gấu 6 cuộn x 12 cây,Cây,155004,1,6,191000,35996,,MP Út Tuyền - B.Sao,-119008,,True,5999.333333333333
+373,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,231000,0,30,300000,69000,,MP Út Tuyền - B.Sao,-162000,,False,2300.0
+374,KU801,Khăn ướt Baby (đỏ) 80g x 50 gói,Gói,120000,0,30,180000,60000,,Cô Triết - T.H.Trung,-60000,,False,2000.0
+375,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,172800,0,24,288000,115200,,Cô Triết - T.H.Trung,-57600,,False,4800.0
+376,KV320,Khăn Napkin Fairy 320 x 100 tờ x 48 gói,Gói,0,3,0,-30000,-30000,,Cô Triết - T.H.Trung,-30000,,True,0.0
+377,GC600,GVS TiOne cuộn CN 600gr x 10 cuộn,Cuộn,210000,0,10,320000,110000,,Tuyết Lan - B.H.Tây,-100000,,False,11000.0
+378,NRC38001,"NRC KIMONO 3,6kg x 4 bình",Bình,0,0,0,-180000,-180000,,Tuyết Lan - B.H.Tây,-180000,,False,0.0
+379,KTN2001,Kẹo Trang Nghiêm ME CAM THẢO 200gr x 50 gói/thùng,Gói,61000,0,5,65000,4000,,TT Kim Thoa - M.Long,-57000,,False,800.0
+380,KTN2002,Kẹo Trang Nghiêm DÂU TÂY 200gr x 50 gói/thùng,Gói,73200,0,6,78000,4800,,TT Kim Thoa - M.Long,-68400,,False,800.0
+381,KTN2003,Kẹo Trang Nghiêm DÂU TẰM 200gr x 50 gói/thùng,Gói,61000,0,5,65000,4000,,TT Kim Thoa - M.Long,-57000,,False,800.0
+382,KTN2004,Kẹo Trang Nghiêm ME ỚT 200gr x 50 gói/thùng,Gói,61000,0,5,65000,4000,,TT Kim Thoa - M.Long,-57000,,False,800.0
+383,A1K15,Kẹo bạc hà (chanh muối) Himalaya 15g x 12 gói x 12 hộp,Hộp,362268,0,6,312000,-50268,,TT Ngọc Trinh - B.H.Trung,-412536,,False,-8378.0
+384,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,0,48,518400,172800,,Xuân Bình - M.Hiệp,-172800,,False,3600.0
+385,KV320,Khăn Napkin Fairy 320 x 100 tờ x 48 gói,Gói,1056000,0,96,960000,-96000,,Xuân Bình - M.Hiệp,-1152000,,False,-1000.0
+386,TLM,Tẩy toilet Liên Minh (nguyên liệu nhập khẩu) x 12 chai,Chai,320016,0,24,440016,120000,,Xuân Bình - M.Hiệp,-200016,,False,5000.0
+387,KU801,Khăn ướt Baby (đỏ) 80g x 50 gói,Gói,200000,0,50,300000,100000,,TT Đông Nguyên - M.Long,-100000,,False,2000.0
+388,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,0,3,0,-327000,-327000,,TT Nguyễn Thị Định - M.Xương,-327000,,True,0.0
+389,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,300000,0,3,654000,354000,,TT Nguyễn Thị Định - M.Xương,54000,,False,118000.0
+390,KV1001,Khăn Napkin Ruby Gold 100 tờ x 30 gói,Gói,225000,8,30,261000,36000,,TT Nguyễn Thị Định - M.Xương,-189000,,True,1200.0
+391,NG3600,"Nước giặt Kimono 6 in 1 (tím) x 3,6kg x 4 bình",Bình,0,1,0,-130000,-130000,,TT Nguyễn Thị Định - M.Xương,-130000,,True,0.0
+392,NG36002,"Nước giặt Kimono 6 in 1 (đen) x 3,6kg x 4 bình",Bình,182500,0,2,390000,207500,,TT Nguyễn Thị Định - M.Xương,25000,,False,103750.0
+393,KDR002,Kem đánh răng AquaStar TE cam x 60 hộp,Hộp,79998,1,6,83000,3002,,TT Kim Dung - M.Hiệp,-76996,,True,500.3333333333333
+394,KDR003,Kem đánh răng AquaStar TE dâu x 60 hộp,Hộp,79998,1,6,83000,3002,,TT Kim Dung - M.Hiệp,-76996,,True,500.3333333333333
+395,KV1002,Khăn Napkin TiOne nâu 100 tờ x 30 gói,Gói,216000,3,30,300000,84000,,TT Kim Dung - M.Hiệp,-132000,,True,2800.0
+396,KV501,Khăn ăn Cocktail Paseo 50 tờ 2 lớp x 60 gói,Gói,37585,0,5,30000,-7585,,TT Kim Dung - M.Hiệp,-45170,,False,-1517.0
+397,KVK300,Khăn vải khô đa năng 300g x 30 gói,Gói,115000,0,5,165000,50000,,TT Kim Dung - M.Hiệp,-65000,,False,10000.0
+398,GC10,V/S Bibi không lõi x 10 dây,Dây,260000,0,10,250000,-10000,,Tuyết Lài ( Chị Lài) - B.H.Trung,-270000,,False,-1000.0
+399,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,200000,0,2,260000,60000,,Tuyết Lài ( Chị Lài) - B.H.Trung,-140000,,False,30000.0
+400,KV1001,Khăn Napkin Ruby Gold 100 tờ x 30 gói,Gói,225000,0,30,330000,105000,,Tuyết Lài ( Chị Lài) - B.H.Trung,-120000,,False,3500.0
+401,KV1002,Khăn Napkin TiOne nâu 100 tờ x 30 gói,Gói,0,8,0,-80000,-80000,,Tuyết Lài ( Chị Lài) - B.H.Trung,-80000,,True,0.0
+402,TNS1,Tẩy toilet Nam Sơn NK 100% 1L x 12 chai,Chai,190008,0,12,312000,121992,,Tuyết Lài ( Chị Lài) - B.H.Trung,-68016,,False,10166.0
+403,HTBTE50,Bánh gạo TE Happy Bites Việt Quất 50g x 12 hộp,Hộp,135900,4,3,-25000,-160900,,Mẹ & Bé ( Mẹ Yêu Con) - M.Hiệp,-296800,,True,-53633.333333333336
+404,HTBTE501,Bánh gạo TE Happy Bites Táo 50g x 12 hộp,Hộp,317100,0,7,343000,25900,,Mẹ & Bé ( Mẹ Yêu Con) - M.Hiệp,-291200,,False,3700.0
+405,HTBTE502,Bánh gạo TE Happy Bites Chuối 50g x 12 hộp,Hộp,634200,0,14,686000,51800,,Mẹ & Bé ( Mẹ Yêu Con) - M.Hiệp,-582400,,False,3700.0
+406,BG3500,"Bột giặt Lady 107 - 3,5kg x 4 gói/thùng",Gói,331520,0,4,408000,76480,,Tuấn Kiệt - M.Long,-255040,,False,19120.0
+407,KU203,Khăn ướt TiOne 20g x 100 gói,Gói,50000,0,20,80000,30000,,Tuấn Kiệt - M.Long,-20000,,False,1500.0
+408,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,600000,6,6,654000,54000,,TH Ngân (chị Ngân) - T.H.Trung,-546000,,True,9000.0
+409,KV1009,Khăn Napkin TiOne Gấu 100 tờ x 48 gói,Gói,288000,0,48,360000,72000,,Chị Tuyết - HCL (N.Mỹ),-216000,,False,1500.0
+410,KV1011,Khăn Napkin EMos x 30 gói,Gói,200010,0,30,225000,24990,,Chị Tuyết - HCL (N.Mỹ),-175020,,False,833.0
+411,HM10,Yến sào Finenest nhân sâm x 10 hộp,Hộp,0,3,0,-327000,-327000,,Cô 7 - X.Quýt,-327000,,True,0.0
+412,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,300000,0,3,654000,354000,,Cô 7 - X.Quýt,54000,,False,118000.0
+413,KDL01,Khăn giấy bỏ túi Paseo 9 tờ x 6 gói/cây x 40 cây,Cây,0,0,0,0,0,,Chị Nga - HCL,0,,False,0.0
+414,BT002,Bông tắm có mút cao cấp x 12 cái,Cái,693000,5,44,792000,99000,,Thông Thảo - P.Mỹ (QL30),-594000,,True,2250.0
+415,NV102,Núm vú cổ rộng size M,Hộp,240000,0,1,250000,10000,,Hồng Hạnh - P.Mỹ (cầu Trâu Trắng),-230000,,False,10000.0
+416,TNS1,Tẩy toilet Nam Sơn NK 100% 1L x 12 chai,Chai,950040,12,60,1325000,374960,,Hồng Hạnh - P.Mỹ (cầu Trâu Trắng),-575080,,True,6249.333333333333
+417,CG50,Chân gà cay ăn liền ZL FOOD loại 50g x 30 x 7 túi,Cái,55000,0,10,60000,5000,,Lê Đà - Ngã 4,-50000,,False,500.0
+418,CG501,Chân gà cay ăn liền ZL FOOD Acao 50g x 30 x 7 túi,Cái,110000,0,20,120000,10000,,Lê Đà - Ngã 4,-100000,,False,500.0
+419,KTN802,Kẹo Trang Nghiêm ME ỚT 80gr x 100 gói/thùng,Gói,52500,0,10,70000,17500,,Lê Đà - Ngã 4,-35000,,False,1750.0
+420,CG50,Chân gà cay ăn liền ZL FOOD loại 50g x 30 x 7 túi,Cái,165000,0,30,180000,15000,,Thanh Tâm - Ngã 4,-150000,,False,500.0
+421,CG501,Chân gà cay ăn liền ZL FOOD Acao 50g x 30 x 7 túi,Cái,165000,0,30,180000,15000,,Thanh Tâm - Ngã 4,-150000,,False,500.0
+422,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,231000,0,30,300000,69000,,Thanh Tâm - Ngã 4,-162000,,False,2300.0
+423,KV320,Khăn Napkin Fairy 320 x 100 tờ x 48 gói,Gói,110000,0,10,110000,0,,Thanh Tâm - Ngã 4,-110000,,False,0.0
+424,TNS1,Tẩy toilet Nam Sơn NK 100% 1L x 12 chai,Chai,190008,0,12,270000,79992,,Thanh Tâm - Ngã 4,-110016,,False,6666.0
+425,KMQCL,Quạt SENKO 1638 chân lỡ,Cây,0,1,0,-282000,-282000,,5 Phụng - T.Nghĩa,-282000,,True,0.0
+426,KTN3001,Kẹo Trang Nghiêm DÂU TÂY hộp 200g x 24 hộp/thùng,Hộp,145000,0,10,140000,-5000,,5 Phụng - T.Nghĩa,-150000,,False,-500.0
+427,KTN3002,Kẹo Trang Nghiêm DÂU TẰM hộp 200g x 24 hộp/thùng,Hộp,145000,0,10,140000,-5000,,5 Phụng - T.Nghĩa,-150000,,False,-500.0
+428,KTN400,Kẹo Trang Nghiêm DÂU TÂY hộp 400g x 24 hộp/thùng,Hộp,86400,0,3,90000,3600,,5 Phụng - T.Nghĩa,-82800,,False,1200.0
+429,KTN4001,Kẹo Trang Nghiêm DÂU TẰM hộp 400g x 24 hộp/thùng,Hộp,86400,0,3,90000,3600,,5 Phụng - T.Nghĩa,-82800,,False,1200.0
+430,KU1509,Khăn ướt BBIWINEW (khổ lớn) 150g x 30 gói,Gói,540000,0,60,1080000,540000,,5 Phụng - T.Nghĩa,0,,False,9000.0
+431,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,231000,0,30,300000,69000,,Chị Lắm - T.Nghĩa,-162000,,False,2300.0
+432,HTNM,Nhang muỗi đen ThaiLan,Hộp,90000,1,12,133000,43000,,Ngọc Thắm - T.Nghĩa,-47000,,True,3583.3333333333335
+433,GC10,V/S Bibi không lõi x 10 dây,Dây,260000,0,10,240000,-20000,,Chị Linh (bán bọc) - HCL,-280000,,False,-2000.0
+434,GC617,GVS TiOne hồng 6 cuộn x 12 cây,Cây,265716,0,12,360000,94284,,5 Hiếu - T.Linh,-171432,,False,7857.0
+435,HTF3000,Nước giặt Fineline tím 3L x 4 bình,Bình,170000,0,2,240000,70000,,Hồng Loan - P.Trà,-100000,,False,35000.0
+436,HTF30001,Nước giặt Fineline hồng 3L x 4 bình,Bình,170000,0,2,240000,70000,,Hồng Loan - P.Trà,-100000,,False,35000.0
+437,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,172800,2,24,268000,95200,,Chị Liên - T.Linh,-77600,,True,3966.6666666666665
+438,KDL01,Khăn giấy bỏ túi Paseo 9 tờ x 6 gói/cây x 40 cây,Cây,0,0,0,0,0,,Shop Hope - N.V.Tiếp ( Đập Đá),0,,False,0.0
+439,KR402,Khăn giấy rút SSS BiBi 2 lớp x 400gr x 12 gói,Gói,211200,2,10,184000,-27200,,Quán Cơm Trâm Anh - T.Linh,-238400,,True,-2720.0
+440,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,300000,3,3,327000,27000,,Chị My (căn tin) - BV HCL,-273000,,True,9000.0
+441,KV320,Khăn Napkin Fairy 320 x 100 tờ x 48 gói,Gói,528000,6,48,516000,-12000,,Chị Nga - HCL,-540000,,True,-250.0
+442,KV1001,Khăn Napkin Ruby Gold 100 tờ x 30 gói,Gói,225000,3,30,300000,75000,,Chị Xuyên - M.Long,-150000,,True,2500.0
+443,A1K15,Kẹo bạc hà (chanh muối) Himalaya 15g x 12 gói x 12 hộp,Hộp,120756,0,2,108000,-12756,,TT Thu Diễm - T.H.Trung,-133512,,False,-6378.0
+444,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,231000,0,30,300000,69000,,Chị Đào - T.H.Trung,-162000,,False,2300.0
+445,BCTEM32,BCTE N32 (xe) x 12 x 30 hộp,Cây,46800,0,6,66000,19200,,TT Đông Nguyên - M.Long,-27600,,False,3200.0
+446,BCTEM35,BCTE N35 (búp bê) x 12 x 30 hộp,Cây,46800,0,6,66000,19200,,TT Đông Nguyên - M.Long,-27600,,False,3200.0
+447,BCTEN36,BCTE N36 (đồng hồ) x 18 x 20 hộp,Cây,46800,0,6,66000,19200,,TT Đông Nguyên - M.Long,-27600,,False,3200.0
+448,A1K15,Kẹo bạc hà (chanh muối) Himalaya 15g x 12 gói x 12 hộp,Hộp,120756,0,2,104000,-16756,,TT Anh Hào - BV HCL,-137512,,False,-8378.0
+449,BCA11,BC Ion Eco care (NK Hàn Quốc) 48 cây x 2 hộp,Cây,170200,0,5,150000,-20200,,TT Anh Hào - BV HCL,-190400,,False,-4040.0
+450,BCJEWELL,BÀN CHẢI ĐÁNH RĂNG ION - JEWEL,Cây,212500,0,5,150000,-62500,,TT Anh Hào - BV HCL,-275000,,False,-12500.0
+451,BCN306,BC KAKA NANO N306 x 50 cây x 6 hộp,Cây,275000,0,50,400000,125000,,TT Anh Hào - BV HCL,-150000,,False,2500.0
+452,BCOCEAN,BÀN CHẢI ĐÁNH RĂNG ION - OCEAN,Cây,240000,0,5,150000,-90000,,TT Anh Hào - BV HCL,-330000,,False,-18000.0
+453,TBTE180,TBTE THÂN NHỰA BABA 180 cây x 12 hộp x 20 block,Cây,0,0,0,0,0,,TT Anh Hào - BV HCL,0,,False,0.0
+454,TBTE20002,Tăm bông thân nhựa TE hộp tròn 200 cây x 12 hộp,Hộp,178500,0,12,192000,13500,,TT Anh Hào - BV HCL,-165000,,False,1125.0
+455,A1K15,Kẹo bạc hà (chanh muối) Himalaya 15g x 12 gói x 12 hộp,Hộp,60378,0,1,54000,-6378,,TT Mỹ Hạnh - T.H.Trung,-66756,,False,-6378.0
+456,A1K15,Kẹo bạc hà (chanh muối) Himalaya 15g x 12 gói x 12 hộp,Hộp,181134,0,3,156000,-25134,,TT Mỹ Tiên - A.Bình,-206268,,False,-8378.0
+457,GC603,GVS Ruby Gold 6 cuộn (không lõi) x 12 cây,Cây,300000,0,12,444000,144000,,Anh Như - Chợ 307,-156000,,False,12000.0
+458,GC617,GVS TiOne hồng 6 cuộn x 12 cây,Cây,0,2,0,-63000,-63000,,Anh Như - Chợ 307,-63000,,True,0.0
+459,GC10,V/S Bibi không lõi x 10 dây,Dây,130000,0,5,120000,-10000,,Chị Duyên - HCL (Thanh Mỹ),-140000,,False,-2000.0
+460,GC603,GVS Ruby Gold 6 cuộn (không lõi) x 12 cây,Cây,300000,0,12,444000,144000,,Mỹ Phương - HCL (Thanh Mỹ),-156000,,False,12000.0
+461,GC617,GVS TiOne hồng 6 cuộn x 12 cây,Cây,0,2,0,-63000,-63000,,Mỹ Phương - HCL (Thanh Mỹ),-63000,,True,0.0
+462,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,231000,0,30,300000,69000,,Mỹ Phương - HCL (Thanh Mỹ),-162000,,False,2300.0
+463,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,0,3,0,-327000,-327000,,Chị Oanh - M.Long,-327000,,True,0.0
+464,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,600000,0,6,1308000,708000,,Chị Oanh - M.Long,108000,,False,118000.0
+465,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,0,3,0,-327000,-327000,,Chị Oanh - M.Long,-327000,,True,0.0
+466,HTD3000,Nước giặt D-nee tím 3L x 4 bình,Bình,170000,0,2,250000,80000,,MP Chị Út - HCL (Thanh Mỹ),-90000,,False,40000.0
+467,HTD30001,Nước giặt D-nee hồng 3L x 4 bình,Bình,85000,0,1,125000,40000,,MP Chị Út - HCL (Thanh Mỹ),-45000,,False,40000.0
+468,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,231000,0,30,300000,69000,,MP Chị Út - HCL (Thanh Mỹ),-162000,,False,2300.0
+469,KU802,Khăn ướt TiOne 80g x 40 gói,Gói,55000,0,10,60000,5000,,MP Chị Út - HCL (Thanh Mỹ),-50000,,False,500.0
+470,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,231000,0,30,300000,69000,,Thuận Kiều (nhà may) - Chợ 307,-162000,,False,2300.0
+471,KU802,Khăn ướt TiOne 80g x 40 gói,Gói,55000,0,10,60000,5000,,Thuận Kiều (nhà may) - Chợ 307,-50000,,False,500.0
+472,GC617,GVS TiOne hồng 6 cuộn x 12 cây,Cây,265716,2,12,345000,79284,,TH Ngân (chị Ngân) - T.H.Trung,-186432,,True,6607.0
+473,HM10,Yến sào Finenest nhân sâm x 10 hộp,Hộp,0,6,0,-654000,-654000,,Cẩm Giang - M.Xương,-654000,,True,0.0
+474,HM110,Yến sào Finenest Saffron (hoa nghệ tây) x 10 hộp,Hộp,0,6,0,-654000,-654000,,Cẩm Giang - M.Xương,-654000,,True,0.0
+475,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,600000,6,6,654000,54000,,Cẩm Giang - M.Xương,-546000,,True,9000.0
+476,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,600000,6,6,654000,54000,,Cẩm Giang - M.Xương,-546000,,True,9000.0
+477,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,600000,6,6,654000,54000,,Cẩm Giang - M.Xương,-546000,,True,9000.0
+478,HM613,HIMA Seunest DTHT có đường 6 lọ x 6 hộp,Hộp,780000,0,6,1680000,900000,,Cẩm Giang - M.Xương,120000,,False,150000.0
+479,HM614,HIMA Seunest Colagen có đường 6 lọ x 6 hộp,Hộp,780000,0,6,1680000,900000,,Cẩm Giang - M.Xương,120000,,False,150000.0
+480,GC617,GVS TiOne hồng 6 cuộn x 12 cây,Cây,265716,2,12,345000,79284,,Sữa tả Hoàng Trúc - HCL (T.Mỹ),-186432,,True,6607.0
+481,HTBTE50,Bánh gạo TE Happy Bites Việt Quất 50g x 12 hộp,Hộp,181200,1,4,158000,-23200,,Sữa tả Hoàng Trúc - HCL (T.Mỹ),-204400,,True,-5800.0
+482,HTBTE501,Bánh gạo TE Happy Bites Táo 50g x 12 hộp,Hộp,181200,0,4,200000,18800,,Sữa tả Hoàng Trúc - HCL (T.Mỹ),-162400,,False,4700.0
+483,HTBTE502,Bánh gạo TE Happy Bites Chuối 50g x 12 hộp,Hộp,181200,0,4,200000,18800,,Sữa tả Hoàng Trúc - HCL (T.Mỹ),-162400,,False,4700.0
+484,KDR002,Kem đánh răng AquaStar TE cam x 60 hộp,Hộp,133330,0,10,160000,26670,,Sữa tả Hoàng Trúc - HCL (T.Mỹ),-106660,,False,2667.0
+485,KDR003,Kem đánh răng AquaStar TE dâu x 60 hộp,Hộp,106664,3,8,87000,-19664,,Sữa tả Hoàng Trúc - HCL (T.Mỹ),-126328,,True,-2458.0
+486,HTBSN80,Snack bắp Otori vị Phô Mai 80g x 12,Lon,55440,0,2,64000,8560,,Su Trường - T.H.Trung,-46880,,False,4280.0
+487,HTBSN90,Snack bắp Otori vị Gà cay 90g x 12,Lon,55440,0,2,64000,8560,,Su Trường - T.H.Trung,-46880,,False,4280.0
+488,HTBSN902,Snack bắp Otori vị Tomyum Kung 90g x 12,Lon,27720,0,1,32000,4280,,Su Trường - T.H.Trung,-23440,,False,4280.0
+489,HTBSN903,Snack bắp Otori vị Rong Biển 90g x 12,Lon,27720,0,1,32000,4280,,Su Trường - T.H.Trung,-23440,,False,4280.0
+490,HTK151,Kẹo Tommy trái cây 15g x 12 gói x 12 dây,Dây,75000,0,2,82000,7000,,Su Trường - T.H.Trung,-68000,,False,3500.0
+491,KTN3001,Kẹo Trang Nghiêm DÂU TÂY hộp 200g x 24 hộp/thùng,Hộp,58000,0,4,56000,-2000,,Su Trường - T.H.Trung,-60000,,False,-500.0
+492,KTN3003,Kẹo Trang Nghiêm ME ỚT hộp 200g x 24 hộp/thùng,Hộp,87000,0,6,84000,-3000,,Su Trường - T.H.Trung,-90000,,False,-500.0
+493,GC106,GVS Ruby (HQ) 10 cuộn x 8kg,Cây,180000,0,10,230000,50000,,Dì 2 - HCL ( Thanh Mỹ),-130000,,False,5000.0
+494,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,600000,0,6,1308000,708000,,Dì 2 - HCL ( Thanh Mỹ),108000,,False,118000.0
+495,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,300000,3,3,327000,27000,,Dì 2 - HCL ( Thanh Mỹ),-273000,,True,9000.0
+496,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,0,6,0,-654000,-654000,,Dì 2 - HCL ( Thanh Mỹ),-654000,,True,0.0
+497,GC603,GVS Ruby Gold 6 cuộn (không lõi) x 12 cây,Cây,300000,0,12,444000,144000,,TH Nguyệt - T.H.Trung,-156000,,False,12000.0
+498,GC617,GVS TiOne hồng 6 cuộn x 12 cây,Cây,0,2,0,-63000,-63000,,TH Nguyệt - T.H.Trung,-63000,,True,0.0
+499,GC617,GVS TiOne hồng 6 cuộn x 12 cây,Cây,66429,0,3,90000,23571,,Chị Nương - HCL ( Thanh Mỹ),-42858,,False,7857.0
+500,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,38500,0,5,50000,11500,,Chị Nương - HCL ( Thanh Mỹ),-27000,,False,2300.0
+501,KU802,Khăn ướt TiOne 80g x 40 gói,Gói,55000,0,10,60000,5000,,Chị Nương - HCL ( Thanh Mỹ),-50000,,False,500.0
+502,KV1007,Khăn Napkin An An 100 tờ x 40 gói,Gói,67500,0,10,75000,7500,,Chị Nương - HCL ( Thanh Mỹ),-60000,,False,750.0
+503,SBOMGROW900,SURE OMEGA-GROW IQ 900G,Lon,0,0,0,0,0,2023-01-11,TT Hoàng Yến - M.Long,0,1.0,False,0.0
+504,BCN193,BC KAKA NANO N193 x 30 cây x 10 hộp,Cây,80000,4,20,217000,137000,2023-02-11,Thu Thủy - P.Mỹ (cầu Trâu Trắng),57000,2.0,True,6850.0
+505,BCN302,BC KAKA NANO N302 x 20 cây x 20 hộp,Cây,75000,4,20,217000,142000,2023-02-11,Thu Thủy - P.Mỹ (cầu Trâu Trắng),67000,2.0,True,7100.0
+506,BCN82,BC KaKa Nhật N82 bộ 3 cây x 9 bộ x 33 túi,Bộ,36000,1,9,121500,85500,2023-02-11,Thu Thủy - P.Mỹ (cầu Trâu Trắng),49500,2.0,True,9500.0
+507,BCSILISON,BÀN CHẢI ĐÁNH RĂNG ION - SILISON NANO,Cây,1008000,4,24,762000,-246000,2023-02-11,Thu Thủy - P.Mỹ (cầu Trâu Trắng),-1254000,2.0,True,-10250.0
+508,BCTE001,BCTE AquaStar (con chó) x 24 cây,Cây,93336,0,8,120000,26664,2023-02-11,Thu Thủy - P.Mỹ (cầu Trâu Trắng),-66672,2.0,False,3333.0
+509,BCTE002,BCTE AquaStar (con kiến) x 24 cây,Cây,93336,0,8,120000,26664,2023-02-11,Thu Thủy - P.Mỹ (cầu Trâu Trắng),-66672,2.0,False,3333.0
+510,BCTE003,BCTE AquaStar (con sâu) x 24 cây,Cây,93336,4,8,69000,-24336,2023-02-11,Thu Thủy - P.Mỹ (cầu Trâu Trắng),-117672,2.0,True,-3042.0
+511,BCTEM35,BCTE N35 (búp bê) x 12 x 30 hộp,Cây,93600,0,12,150000,56400,2023-02-11,Thu Thủy - P.Mỹ (cầu Trâu Trắng),-37200,2.0,False,4700.0
+512,TT01,Thanh toán lần 1,VNĐ,0,0,0,-1053000,-1053000,2023-02-11,Thu Thủy - P.Mỹ (cầu Trâu Trắng),-1053000,2.0,False,0.0
+513,HTNM,Nhang muỗi đen ThaiLan,Hộp,450000,0,60,660000,210000,2023-03-11,MP Út Tuyền - B.Sao,-240000,3.0,False,3500.0
+514,KV1011,Khăn Napkin EMos x 30 gói,Gói,200010,0,30,225000,24990,2023-03-11,MP Út Tuyền - B.Sao,-175020,3.0,False,833.0
+515,T3501,Tẩy quần áo màu KIMONO 350ml x 30 chai,Chai,38335,1,5,62500,24165,2023-03-11,MP Út Tuyền - B.Sao,-14170,3.0,True,4833.0
+516,KTN80,Kẹo Trang Nghiêm DÂU TÂY 80gr x 100 gói/thùng,Gói,52500,0,10,70000,17500,2023-03-11,Cô Huệ - B.Sao,-35000,3.0,False,1750.0
+517,KTN802,Kẹo Trang Nghiêm ME ỚT 80gr x 100 gói/thùng,Gói,52500,0,10,70000,17500,2023-03-11,Cô Huệ - B.Sao,-35000,3.0,False,1750.0
+518,KV1007,Khăn Napkin An An 100 tờ x 40 gói,Gói,67500,0,10,75000,7500,2023-03-11,Cô Huệ - B.Sao,-60000,3.0,False,750.0
+519,KV1009,Khăn Napkin TiOne Gấu 100 tờ x 48 gói,Gói,60000,0,10,80000,20000,2023-03-11,Cô Huệ - B.Sao,-40000,3.0,False,2000.0
+520,SBOMMUM900,SURE OMEGA- PRO MUM 900,Lon,0,0,0,0,0,2023-04-11,TT Hoàng Yến - M.Long,0,4.0,False,0.0
+521,HTBTE50,Bánh gạo TE Happy Bites Việt Quất 50g x 12 hộp,Hộp,181200,1,4,157000,-24200,2023-04-11,Mỹ Hạnh - HCL,-205400,4.0,True,-6050.0
+522,HTBTE501,Bánh gạo TE Happy Bites Táo 50g x 12 hộp,Hộp,181200,0,4,200000,18800,2023-04-11,Mỹ Hạnh - HCL,-162400,4.0,False,4700.0
+523,HTBTE502,Bánh gạo TE Happy Bites Chuối 50g x 12 hộp,Hộp,181200,0,4,200000,18800,2023-04-11,Mỹ Hạnh - HCL,-162400,4.0,False,4700.0
+524,TNS1,Tẩy toilet Nam Sơn NK 100% 1L x 12 chai,Chai,950040,12,60,1325000,374960,2023-04-11,Minh Hiền (chị Ớ) - B.H.Trung,-575080,4.0,True,6249.333333333333
+525,BCA001,BC Ion Exciting lông xoắn kép 24 cây x 1 hộp,Cây,110400,0,5,105000,-5400,2023-04-11,TT Kim Thoa - M.Long,-115800,4.0,False,-1080.0
+526,BCA12,BC AquaStar AQ-01 24 cây x 20 hộp,Cây,156400,0,10,140000,-16400,2023-04-11,TT Kim Thoa - M.Long,-172800,4.0,False,-1640.0
+527,BCUNIQUE,BÀN CHẢI ĐÁNH RĂNG ION- UNIQUE,Cây,160000,0,5,105000,-55000,2023-04-11,TT Kim Thoa - M.Long,-215000,4.0,False,-11000.0
+528,KR402,Khăn giấy rút SSS BiBi 2 lớp x 400gr x 12 gói,Gói,126720,0,6,108000,-18720,2023-04-11,TT Kim Thoa - M.Long,-145440,4.0,False,-3120.0
+529,TBTE1001,Tăm bông thân nhựa TE túi 100 cây x 24 túi,Túi,0,0,0,0,0,2023-04-11,TT Kim Thoa - M.Long,0,4.0,False,0.0
+530,BSOGI12,Bánh SOGI CHOCOLATE 12g x 24 cây x 6 hủ,Hủ,63000,0,1,73000,10000,2023-04-11,Kim Loan - B.H.Tây,-53000,4.0,False,10000.0
+531,BSOGI121,Bánh SOGI CHOCOLATE WITH STRAWBERRY CREAM 12g x 24 cây x 6 hủ,Hủ,63000,0,1,73000,10000,2023-04-11,Kim Loan - B.H.Tây,-53000,4.0,False,10000.0
+532,HM600,HIMA Yến Huyết 6 lọ x 6 hộp,Hộp,0,0,0,0,0,2023-04-11,Phước Hải - A.Bình,0,4.0,False,0.0
+533,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,0,0,0,0,0,2023-04-11,Phước Hải - A.Bình,0,4.0,False,0.0
+534,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,0,0,0,0,0,2023-04-11,Phước Hải - A.Bình,0,4.0,False,0.0
+535,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,0,0,0,0,0,2023-04-11,Phước Hải - A.Bình,0,4.0,False,0.0
+536,BG1000,Bột giặt 107 Thái 100% - 1kg x 12 gói/thùng,Gói,320004,6,12,210000,-110004,2023-04-11,TH Trinh (Mỹ Trinh) - HCL (cuối chợ),-430008,4.0,True,-9167.0
+537,BG5200,"Bột giặt Lady 107 -  5,2kg x 3 gói/thùng",Gói,1058940,0,9,1431000,372060,2023-04-11,TH Trinh (Mỹ Trinh) - HCL (cuối chợ),-686880,4.0,False,41340.0
+538,BSOGI12,Bánh SOGI CHOCOLATE 12g x 24 cây x 6 hủ,Hủ,63000,0,1,73000,10000,2023-04-11,TH Hiếu (Ngọc Hiếu) - N.Mỹ,-53000,4.0,False,10000.0
+539,BSOGI121,Bánh SOGI CHOCOLATE WITH STRAWBERRY CREAM 12g x 24 cây x 6 hủ,Hủ,63000,0,1,73000,10000,2023-04-11,TH Hiếu (Ngọc Hiếu) - N.Mỹ,-53000,4.0,False,10000.0
+540,HTBX3501,Bánh xốp Papang vị Cam 350g x 12,Hộp,114400,0,2,134000,19600,2023-04-11,TH Hiếu (Ngọc Hiếu) - N.Mỹ,-94800,4.0,False,9800.0
+541,HTBX3502,Bánh xốp Papang vị Sữa 350g x 12,Hộp,114400,0,2,134000,19600,2023-04-11,TH Hiếu (Ngọc Hiếu) - N.Mỹ,-94800,4.0,False,9800.0
+542,HTBXG350,Bánh xốp Papang vị Chocolate 350g x 12,Hộp,114400,0,2,134000,19600,2023-04-11,TH Hiếu (Ngọc Hiếu) - N.Mỹ,-94800,4.0,False,9800.0
+543,KTN2004,Kẹo Trang Nghiêm ME ỚT 200gr x 50 gói/thùng,Gói,122000,0,10,140000,18000,2023-04-11,TH Hiếu (Ngọc Hiếu) - N.Mỹ,-104000,4.0,False,1800.0
+544,HTBX3501,Bánh xốp Papang vị Cam 350g x 12,Hộp,114400,0,2,134000,19600,2023-04-11,Kim Phụng Điện - HCL,-94800,4.0,False,9800.0
+545,HTBX3502,Bánh xốp Papang vị Sữa 350g x 12,Hộp,114400,0,2,134000,19600,2023-04-11,Kim Phụng Điện - HCL,-94800,4.0,False,9800.0
+546,HTBXG350,Bánh xốp Papang vị Chocolate 350g x 12,Hộp,114400,0,2,134000,19600,2023-04-11,Kim Phụng Điện - HCL,-94800,4.0,False,9800.0
+547,GC10,V/S Bibi không lõi x 10 dây,Dây,0,0,0,0,0,2023-04-11,Thế Giới Con Cưng - HCL,0,4.0,False,0.0
+548,GC109,GVS Toply 10 cuộn x 10 cây,Cây,0,0,0,0,0,2023-04-11,Thế Giới Con Cưng - HCL,0,4.0,False,0.0
+549,HTBTE50,Bánh gạo TE Happy Bites Việt Quất 50g x 12 hộp,Hộp,543600,0,12,600000,56400,2023-04-11,Thế Giới Con Cưng - HCL,-487200,4.0,False,4700.0
+550,HTBTE501,Bánh gạo TE Happy Bites Táo 50g x 12 hộp,Hộp,815400,0,18,900000,84600,2023-04-11,Thế Giới Con Cưng - HCL,-730800,4.0,False,4700.0
+551,HTBTE502,Bánh gạo TE Happy Bites Chuối 50g x 12 hộp,Hộp,815400,0,18,900000,84600,2023-04-11,Thế Giới Con Cưng - HCL,-730800,4.0,False,4700.0
+552,KMQCL,Quạt SENKO 1638 chân lỡ,Cây,0,1,0,-282000,-282000,2023-04-11,Thế Giới Con Cưng - HCL,-282000,4.0,True,0.0
+553,HTBX288,Bánh xốp Uni Chocolate 288g x 12,Hộp,125400,0,3,147000,21600,2023-04-11,CH sữa tả Quý Ngọc - B.H.Trung,-103800,4.0,False,7200.0
+554,HTBX2881,Bánh xốp Uni Vanila 288g x 12,Hộp,125400,0,3,147000,21600,2023-04-11,CH sữa tả Quý Ngọc - B.H.Trung,-103800,4.0,False,7200.0
+555,HM10,Yến sào Finenest nhân sâm x 10 hộp,Hộp,0,6,0,-654000,-654000,2023-04-11,Khải Vân - HCL,-654000,4.0,True,0.0
+556,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,600000,0,6,1308000,708000,2023-04-11,Khải Vân - HCL,108000,4.0,False,118000.0
+557,HM10,Yến sào Finenest nhân sâm x 10 hộp,Hộp,0,3,0,-327000,-327000,2023-04-11,Kim Thúy - HCL,-327000,4.0,True,0.0
+558,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,300000,0,3,654000,354000,2023-04-11,Kim Thúy - HCL,54000,4.0,False,118000.0
+559,HTK151,Kẹo Tommy trái cây 15g x 12 gói x 12 dây,Dây,150000,0,4,168000,18000,2023-04-11,Kim Thúy - HCL,-132000,4.0,False,4500.0
+560,KTN2004,Kẹo Trang Nghiêm ME ỚT 200gr x 50 gói/thùng,Gói,122000,0,10,140000,18000,2023-04-11,Kim Thúy - HCL,-104000,4.0,False,1800.0
+561,BSOGI12,Bánh SOGI CHOCOLATE 12g x 24 cây x 6 hủ,Hủ,63000,0,1,72000,9000,2023-04-11,Thuận Tài - B.H.Trung ,-54000,4.0,False,9000.0
+562,CG50,Chân gà cay ăn liền ZL FOOD loại 50g x 30 x 7 túi,Cái,165000,0,30,200000,35000,2023-04-11,Thuận Tài - B.H.Trung ,-130000,4.0,False,1166.6666666666667
+563,HTBX3501,Bánh xốp Papang vị Cam 350g x 12,Hộp,114400,0,2,134000,19600,2023-04-11,Tuấn Kiệt - M.Long,-94800,4.0,False,9800.0
+564,HTBX3502,Bánh xốp Papang vị Sữa 350g x 12,Hộp,114400,0,2,134000,19600,2023-04-11,Tuấn Kiệt - M.Long,-94800,4.0,False,9800.0
+565,HTBXG350,Bánh xốp Papang vị Chocolate 350g x 12,Hộp,57200,0,1,67000,9800,2023-04-11,Tuấn Kiệt - M.Long,-47400,4.0,False,9800.0
+566,HTKCF140,Kẹo Cafe United 140g X 24 gói,Gói,0,0,0,0,0,2023-04-11,Tuấn Kiệt - M.Long,0,4.0,False,0.0
+567,SBOMGROW900,SURE OMEGA-GROW IQ 900G,Lon,2548800,0,12,2865600,316800,2023-06-11,TT Hoàng Yến - M.Long,-2232000,6.0,False,26400.0
+568,KR1001,Khăn giấy rút lụa SSS BiBi 2 lớp x 1kg x 10 gói,Gói,3360000,0,70,2912000,-448000,2023-06-11,Hoàng Huyên - M.Long,-3808000,6.0,False,-6400.0
+569,HTBD12,Bánh đũa Gap Dâu tây 12g x 12 hộp x 12,Hộp,42084,0,1,48000,5916,2023-06-11,Thế giới sữa Tony - T.Nghĩa,-36168,6.0,False,5916.0
+570,HTBD121,Bánh đũa Gap Sô cô la 12g x 12 hộp x 12,Hộp,42084,0,1,48000,5916,2023-06-11,Thế giới sữa Tony - T.Nghĩa,-36168,6.0,False,5916.0
+571,HTBD122,Bánh đũa Gap Sữa 12g x 12 hộp x 12,Hộp,0,0,0,0,0,2023-06-11,Thế giới sữa Tony - T.Nghĩa,0,6.0,False,0.0
+572,HTBTE501,Bánh gạo TE Happy Bites Táo 50g x 12 hộp,Hộp,271800,0,6,300000,28200,2023-06-11,Thế giới sữa Tony - T.Nghĩa,-243600,6.0,False,4700.0
+573,HTBTE502,Bánh gạo TE Happy Bites Chuối 50g x 12 hộp,Hộp,271800,1,6,300000,28200,2023-06-11,Thế giới sữa Tony - T.Nghĩa,-243600,6.0,True,4700.0
+574,HTKD802,Kẹo dẻo YOYO Assorted Mix (Thập cẩm) 80g x 24 gói,Gói,78320,0,5,92500,14180,2023-06-11,Thế giới sữa Tony - T.Nghĩa,-64140,6.0,False,2836.0
+575,HTCTBC180,Cốc thả bồn cầu 180g x 24 hũ,Hủ,0,0,0,0,0,2023-09-11,Thanh Tâm - Ngã 4,0,9.0,False,0.0
+576,KTN80,Kẹo Trang Nghiêm DÂU TÂY 80gr x 100 gói/thùng,Gói,26250,0,5,35000,8750,2023-09-11,Thanh Tâm - Ngã 4,-17500,9.0,False,1750.0
+577,KTN801,Kẹo Trang Nghiêm DÂU TẰM 80gr x 100 gói/thùng,Gói,26250,0,5,35000,8750,2023-09-11,Thanh Tâm - Ngã 4,-17500,9.0,False,1750.0
+578,KTN802,Kẹo Trang Nghiêm ME ỚT 80gr x 100 gói/thùng,Gói,26250,0,5,35000,8750,2023-09-11,Thanh Tâm - Ngã 4,-17500,9.0,False,1750.0
+579,BWW18,Bánh quy WINWIN - Hương vị BẮP (943) 8 gói x 180g x 24 hộp,Hộp,82500,0,3,84000,1500,2023-09-11,Thế giới sữa Tony - T.Nghĩa,-81000,9.0,False,500.0
+580,BWW181,Bánh quy WINWIN - Hương vị HẢI SẢN (997) 8 gói x 18g x 24 hộp,Hộp,82500,0,3,84000,1500,2023-09-11,Thế giới sữa Tony - T.Nghĩa,-81000,9.0,False,500.0
+581,BWW202,Bánh quy WINWIN - Khoai tây vị BBQ (908) 8 gói x 20g x 24 hộp,Hộp,82500,0,3,84000,1500,2023-09-11,Thế giới sữa Tony - T.Nghĩa,-81000,9.0,False,500.0
+582,BWW203,Bánh quy WINWIN - Khoai tây vị RAU CẢI (910) 8 gói x 20g x 24 hộp,Hộp,82500,0,3,84000,1500,2023-09-11,Thế giới sữa Tony - T.Nghĩa,-81000,9.0,False,500.0
+583,CG50,Chân gà cay ăn liền ZL FOOD loại 50g x 30 x 7 túi,Cái,165000,0,30,195000,30000,2023-09-11,Thế giới sữa Tony - T.Nghĩa,-135000,9.0,False,1000.0
+584,HTBD121,Bánh đũa Gap Sô cô la 12g x 12 hộp x 12,Hộp,42084,0,1,48000,5916,2023-09-11,Thế giới sữa Tony - T.Nghĩa,-36168,9.0,False,5916.0
+585,KGC10,KHÔ GÀ CAY - 10 GR x 500 gói,Gói,90000,0,25,100000,10000,2023-09-11,Thế giới sữa Tony - T.Nghĩa,-80000,9.0,False,400.0
+586,JA1KG,Javel 1L x 12 chai,Chai,450000,12,60,650000,200000,2023-09-11,5 Phụng - T.Nghĩa,-250000,9.0,True,3333.3333333333335
+587,BC32C189,BC ThaiLan ống 30 cây x 15 hũ,Hủ,230000,0,2,390000,160000,2023-09-11,Chị Nhung - T.Nghĩa,-70000,9.0,False,80000.0
+588,CG50,Chân gà cay ăn liền ZL FOOD loại 50g x 30 x 7 túi,Cái,165000,0,30,180000,15000,2023-09-11,Chị Nhung - T.Nghĩa,-150000,9.0,False,500.0
+589,HTK151,Kẹo Tommy trái cây 15g x 12 gói x 12 dây,Dây,75000,0,2,82000,7000,2023-09-11,Chị Nhung - T.Nghĩa,-68000,9.0,False,3500.0
+590,KMQ,Quạt chân cao,Cây,0,1,0,0,0,2023-09-11,Chị Nhung - T.Nghĩa,0,9.0,True,0.0
+591,VMS002,VM Kẹo Thạch 500g (500g x 20 túi),Túi,46562,0,2,63000,16438,2023-09-11,Chị Nhung - T.Nghĩa,-30124,9.0,False,8219.0
+592,CG50,Chân gà cay ăn liền ZL FOOD loại 50g x 30 x 7 túi,Cái,82500,0,15,97500,15000,2023-09-11,An Nhiên - T.Nghĩa,-67500,9.0,False,1000.0
+593,CG501,Chân gà cay ăn liền ZL FOOD Acao 50g x 30 x 7 túi,Cái,82500,0,15,97500,15000,2023-09-11,An Nhiên - T.Nghĩa,-67500,9.0,False,1000.0
+594,KR1500,Khăn rút TiOne treo tường 1500 tờ x 15 gói,Gói,57000,0,3,84000,27000,2023-09-11,Ngọc Thắm - T.Nghĩa,-30000,9.0,False,9000.0
+595,KU1509,Khăn ướt BBIWINEW (khổ lớn) 150g x 30 gói,Gói,90000,0,10,130000,40000,2023-09-11,Ngọc Thắm - T.Nghĩa,-50000,9.0,False,4000.0
+596,KV1001,Khăn Napkin Ruby Gold 100 tờ x 30 gói,Gói,75000,0,10,90000,15000,2023-09-11,Ngọc Thắm - T.Nghĩa,-60000,9.0,False,1500.0
+597,KV1007,Khăn Napkin An An 100 tờ x 40 gói,Gói,270000,0,40,300000,30000,2023-09-11,Ngọc Thắm - T.Nghĩa,-240000,9.0,False,750.0
+598,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,231000,0,30,300000,69000,2023-10-11,Nhung Nhựt - N.V.Tiếp,-162000,10.0,False,2300.0
+599,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,0,0,0,0,0,2023-10-11,Phượng Loan - N.V.Tiếp,0,10.0,False,0.0
+600,KV320,Khăn Napkin Fairy 320 x 100 tờ x 48 gói,Gói,264000,0,24,240000,-24000,2023-10-11,Phượng Loan - N.V.Tiếp,-288000,10.0,False,-1000.0
+601,KV1002,Khăn Napkin TiOne nâu 100 tờ x 30 gói,Gói,1296000,0,180,1692000,396000,2023-10-11,Căn tin BV Phổi( Chị Duyên) - BV phổi,-900000,10.0,False,2200.0
+602,BSOGI12,Bánh SOGI CHOCOLATE 12g x 24 cây x 6 hủ,Hủ,63000,0,1,73000,10000,2023-10-11,Bảo Trân (Chị Trâm) - P.Thịnh,-53000,10.0,False,10000.0
+603,HTK151,Kẹo Tommy trái cây 15g x 12 gói x 12 dây,Dây,75000,0,2,84000,9000,2023-10-11,Bảo Trân (Chị Trâm) - P.Thịnh,-66000,10.0,False,4500.0
+604,KDL03,Khăn giấy bỏ túi Jembo 10 gói x 30 cây,Cây,225000,0,30,285000,60000,2023-10-11,Shop Hope - N.V.Tiếp ( Đập Đá),-165000,10.0,False,2000.0
+605,KU20,Khăn ướt Anpa 20g x 120 gói,Gói,104400,0,36,144000,39600,2023-10-11,Ngọc Hạnh - P.Thịnh,-64800,10.0,False,1100.0
+606,GC616,GVS Panda 6 cuộn cao x 12 cuộn x 12kg,Cây,64000,0,2,80000,16000,2023-10-11,Thanh Thúy - P.Trà,-48000,10.0,False,8000.0
+607,NSSK555,Saka 555ml x 24 chai,Thùng,156000,0,2,172000,16000,2023-10-11,Thanh Thúy - P.Trà,-140000,10.0,False,8000.0
+608,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,600000,0,6,1308000,708000,2023-11-11,Thái Nguyên - T.Linh,108000,11.0,False,118000.0
+609,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,0,6,0,-654000,-654000,2023-11-11,Thái Nguyên - T.Linh,-654000,11.0,True,0.0
+610,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,231000,0,30,300000,69000,2023-11-11,Thái Nguyên - T.Linh,-162000,11.0,False,2300.0
+611,BC32C189,BC ThaiLan ống 30 cây x 15 hũ,Hủ,115000,0,1,150000,35000,,Mỹ Hạnh - HCL,-80000,,False,35000.0
+612,BCTE001,BCTE AquaStar (con chó) x 24 cây,Cây,93336,0,8,112000,18664,,Mỹ Hạnh - HCL,-74672,,False,2333.0
+613,BCTE002,BCTE AquaStar (con kiến) x 24 cây,Cây,93336,0,8,112000,18664,,Mỹ Hạnh - HCL,-74672,,False,2333.0
+614,BCTE003,BCTE AquaStar (con sâu) x 24 cây,Cây,93336,4,8,64000,-29336,,Mỹ Hạnh - HCL,-122672,,True,-3667.0
+615,KDR002,Kem đánh răng AquaStar TE cam x 60 hộp,Hộp,66665,2,5,54000,-12665,,Mỹ Hạnh - HCL,-79330,,True,-2533.0
+616,KDR003,Kem đánh răng AquaStar TE dâu x 60 hộp,Hộp,66665,0,5,80000,13335,,Mỹ Hạnh - HCL,-53330,,False,2667.0
+617,KV1001,Khăn Napkin Ruby Gold 100 tờ x 30 gói,Gói,450000,0,60,480000,30000,,Mỹ Hạnh - HCL,-420000,,False,500.0
+618,HM600,HIMA Yến Huyết 6 lọ x 6 hộp,Hộp,1215000,0,6,1620000,405000,,Minh Hiền (chị Ớ) - B.H.Trung,-810000,,False,67500.0
+619,HM601,HIMA DAILY (new) 6 lọ x 6 hộp,Hộp,1152000,0,6,1440000,288000,,Minh Hiền (chị Ớ) - B.H.Trung,-864000,,False,48000.0
+620,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,0,6,0,-654000,-654000,,Minh Hiền (chị Ớ) - B.H.Trung,-654000,,True,0.0
+621,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,0,3,0,-327000,-327000,,Minh Hiền (chị Ớ) - B.H.Trung,-327000,,True,0.0
+622,HM609,HIMA Hoa Hồng 35% yến 6 lọ x 6 hộp,Hộp,900000,0,6,1308000,408000,,Minh Hiền (chị Ớ) - B.H.Trung,-492000,,False,68000.0
+623,TBTE20002,Tăm bông thân nhựa TE hộp tròn 200 cây x 12 hộp,Hộp,535500,6,36,525000,-10500,,Chị Nga - HCL,-546000,,True,-291.6666666666667
+624,KU600,Khăn ướt Anpa Nano bạc 600gr x 30 gói,Gói,175000,2,10,167000,-8000,,Chị Sương (Thu Sương) - A.Bình,-183000,,True,-800.0
+625,HTBD12,Bánh đũa Gap Dâu tây 12g x 12 hộp x 12,Hộp,42084,0,1,48000,5916,,Chị Đẹp - T.H.Trung,-36168,,False,5916.0
+626,KV1007,Khăn Napkin An An 100 tờ x 40 gói,Gói,195750,0,29,217500,21750,,Chị Đẹp - T.H.Trung,-174000,,False,750.0
+627,KH1802,Khăn hộp Hà Nội 180 tờ x 2 lớp x 36 hộp,Hộp,692064,0,36,648000,-44064,,Mỹ Nhân - N.Mỹ,-736128,,False,-1224.0
+628,KV1009,Khăn Napkin TiOne Gấu 100 tờ x 48 gói,Gói,576000,0,96,720000,144000,,Chị Đào - T.H.Trung,-432000,,False,1500.0
+629,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,600000,6,6,654000,54000,,Phước Hải - A.Bình,-546000,,True,9000.0
+630,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,600000,6,6,654000,54000,,Phước Hải - A.Bình,-546000,,True,9000.0
+631,BC32C189,BC ThaiLan ống 30 cây x 15 hũ,Hủ,230000,0,2,390000,160000,,Trung Phụng - T.H.Trung,-70000,,False,80000.0
+632,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,0,3,0,-327000,-327000,,Trung Phụng - T.H.Trung,-327000,,True,0.0
+633,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,600000,3,6,981000,381000,,Trung Phụng - T.H.Trung,-219000,,True,63500.0
+634,KDL03,Khăn giấy bỏ túi Jembo 10 gói x 30 cây,Cây,75000,0,10,95000,20000,,Trung Phụng - T.H.Trung,-55000,,False,2000.0
+635,KMQ,Quạt chân cao,Cây,0,1,0,0,0,,Trung Phụng - T.H.Trung,0,,True,0.0
+636,BCN189,BC KAKA NANO N189 x 30 x 10 hộp,Cây,144000,0,30,210000,66000,,TH Trinh (Mỹ Trinh) - HCL (cuối chợ),-78000,,False,2200.0
+637,GC605,GVS Ruby 6 cuộn Mèo (không lõi) x 10 cây,Cây,290000,1,10,355000,65000,,Út Bông - T.H.Trung,-225000,,True,6500.0
+638,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,77000,0,10,100000,23000,,Út Bông - T.H.Trung,-54000,,False,2300.0
+639,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,1800000,0,18,3924000,2124000,,Kim Hiếu - HCL (X.Quýt),324000,,False,118000.0
+640,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,0,18,0,-1962000,-1962000,,Kim Hiếu - HCL (X.Quýt),-1962000,,True,0.0
+641,BSOGI12,Bánh SOGI CHOCOLATE 12g x 24 cây x 6 hủ,Hủ,63000,0,1,73000,10000,,Tố Quyên - T.H.Trung,-53000,,False,10000.0
+642,KTN2002,Kẹo Trang Nghiêm DÂU TÂY 200gr x 50 gói/thùng,Gói,61000,0,5,70000,9000,,Tố Quyên - T.H.Trung,-52000,,False,1800.0
+643,KTN2003,Kẹo Trang Nghiêm DÂU TẰM 200gr x 50 gói/thùng,Gói,61000,0,5,70000,9000,,Tố Quyên - T.H.Trung,-52000,,False,1800.0
+644,KTN2004,Kẹo Trang Nghiêm ME ỚT 200gr x 50 gói/thùng,Gói,12200,0,1,14000,1800,,Tố Quyên - T.H.Trung,-10400,,False,1800.0
+645,KTN3001,Kẹo Trang Nghiêm DÂU TÂY hộp 200g x 24 hộp/thùng,Hộp,174000,0,12,168000,-6000,,Anh Như - Chợ 307,-180000,,False,-500.0
+646,GC10,V/S Bibi không lõi x 10 dây,Dây,130000,0,5,120000,-10000,,Chị Duyên - HCL (Thanh Mỹ),-140000,,False,-2000.0
+647,GC605,GVS Ruby 6 cuộn Mèo (không lõi) x 10 cây,Cây,174000,0,6,210000,36000,,Chị Duyên - HCL (Thanh Mỹ),-138000,,False,6000.0
+648,KR402,Khăn giấy rút SSS BiBi 2 lớp x 400gr x 12 gói,Gói,211200,2,10,180000,-31200,,Chị Phượng - HCL (Thanh Mỹ),-242400,,True,-3120.0
+649,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,154000,0,20,200000,46000,,Anh Dũng - HCL (Thanh Mỹ),-108000,,False,2300.0
+650,KV1011,Khăn Napkin EMos x 30 gói,Gói,66670,0,10,75000,8330,,Anh Dũng - HCL (Thanh Mỹ),-58340,,False,833.0
+651,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,231000,0,30,330000,99000,,TH Ngân (chị Ngân) - T.H.Trung,-132000,,False,3300.0
+652,KV1001,Khăn Napkin Ruby Gold 100 tờ x 30 gói,Gói,0,3,0,-3000,-3000,,TH Ngân (chị Ngân) - T.H.Trung,-3000,,True,0.0
+653,TNS1,Tẩy toilet Nam Sơn NK 100% 1L x 12 chai,Chai,190008,0,12,270000,79992,,TH Ngân (chị Ngân) - T.H.Trung,-110016,,False,6666.0
+654,GC1023,V/S Bibi có lõi x 10 dây,Dây,294000,2,12,288000,-6000,,Chị Tuyết - HCL (N.Mỹ),-300000,,True,-500.0
+655,KMQCL,Quạt SENKO 1638 chân lỡ,Cây,0,1,0,-281000,-281000,,Cẩm Giang - M.Xương,-281000,,True,0.0
+656,KU600,Khăn ướt Anpa Nano bạc 600gr x 30 gói,Gói,1575000,0,90,1800000,225000,,Cẩm Giang - M.Xương,-1350000,,False,2500.0
+657,KV1011,Khăn Napkin EMos x 30 gói,Gói,0,0,0,0,0,,Chị Nguyệt - T.H.Trung,0,,False,0.0
+658,TNS1,Tẩy toilet Nam Sơn NK 100% 1L x 12 chai,Chai,190008,0,12,264000,73992,,Diễm Lộc - HCL ( Thanh Mỹ),-116016,,False,6166.0
+659,GC605,GVS Ruby 6 cuộn Mèo (không lõi) x 10 cây,Cây,290000,1,10,355000,65000,,Nhà Sách Hùng Quyến - HCL ( Thanh Mỹ),-225000,,True,6500.0
+660,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,4,48,536000,190400,,Chị Nga - HCL,-155200,,True,3966.6666666666665
+661,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,691200,0,96,1017600,326400,,Thanh Trang - HCL,-364800,,False,3400.0
+662,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,0,0,0,0,0,,Mai Trinh (chị Trinh) - HCL,0,,False,0.0
+663,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,600000,6,6,654000,54000,,Ngọc Lợi - N.Mỹ ( Cầu Cần Lố 3),-546000,,True,9000.0
+664,KV1007,Khăn Napkin An An 100 tờ x 40 gói,Gói,270000,0,40,320000,50000,,Ngọc Lợi - N.Mỹ ( Cầu Cần Lố 3),-220000,,False,1250.0
+665,KV60,Khăn Napkin Ruby hồng 64 gói,Gói,0,0,0,0,0,,Chị Thủy (đồ nhựa) - T.H.Trung,0,,False,0.0
+666,KV1007,Khăn Napkin An An 100 tờ x 40 gói,Gói,0,0,0,0,0,,Chị Lan - T.H.Trung,0,,False,0.0
+667,BCAKIRA,BÀN CHẢI ĐÁNH RĂNG ION - AKIRA Hộp,Cây,672000,2,12,441600,-230400,,Thông Thảo - P.Mỹ (QL30),-902400,,True,-19200.0
+668,BCHARU,BÀN CHẢI ĐÁNH RĂNG ION - HARU,Cây,330000,1,6,217000,-113000,,Thông Thảo - P.Mỹ (QL30),-443000,,True,-18833.333333333332
+669,KTN2004,Kẹo Trang Nghiêm ME ỚT 200gr x 50 gói/thùng,Gói,122000,0,10,140000,18000,,Phượng Loan - N.V.Tiếp,-104000,,False,1800.0
+670,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,77000,0,10,100000,23000,,Phượng Loan - N.V.Tiếp,-54000,,False,2300.0
+671,KU700,Khăn ướt Anpa Nano 700gr x 24 gói,Gói,504000,0,24,480000,-24000,,Kim Phụng Điện - HCL,-528000,,False,-1000.0
+672,KR1001,Khăn giấy rút lụa SSS BiBi 2 lớp x 1kg x 10 gói,Gói,240000,1,5,217000,-23000,,TT Kim Thoa - M.Long,-263000,,True,-4600.0
+673,KTN2001,Kẹo Trang Nghiêm ME CAM THẢO 200gr x 50 gói/thùng,Gói,122000,0,10,130000,8000,,TT Kim Thoa - M.Long,-114000,,False,800.0
+674,TBTE1001,Tăm bông thân nhựa TE túi 100 cây x 24 túi,Túi,126000,0,24,144000,18000,,TT Kim Thoa - M.Long,-108000,,False,750.0
+675,GC100,GVS cuộn trắng rẻ (xá) x 10 cây,Bao,57000,0,1,70000,13000,,TT Ngọc Trinh - B.H.Trung,-44000,,False,13000.0
+676,HTBG145,Bánh gạo Bin Bin Tuyết Cay 145g x 20 gói,Gói,31328,0,1,37000,5672,,TT Ngọc Trinh - B.H.Trung,-25656,,False,5672.0
+677,HTBG1502,Bánh gạo Bin Bin Rong Biển 150g x 20 gói,Gói,27720,0,1,32000,4280,,TT Ngọc Trinh - B.H.Trung,-23440,,False,4280.0
+678,HTKSB90,Kẹo Sữa bò Sakara 90g x 24 gói,Gói,75328,0,4,90000,14672,,TT Ngọc Trinh - B.H.Trung,-60656,,False,3668.0
+679,KU801,Khăn ướt Baby (đỏ) 80g x 50 gói,Gói,40000,0,10,60000,20000,,TT Ngọc Trinh - B.H.Trung,-20000,,False,2000.0
+680,A1K15,Kẹo bạc hà (chanh muối) Himalaya 15g x 12 gói x 12 hộp,Hộp,301890,1,5,275000,-26890,,TT Ngọc Hạnh - Đ.Mối,-328780,,True,-5378.0
+681,KU1506,Khăn ướt Lovely (khổ lớn) 150g x 30 gói,Gói,285000,0,30,420000,135000,,TT Ngọc Hạnh - Đ.Mối,-150000,,False,4500.0
+682,KU203,Khăn ướt TiOne 20g x 100 gói,Gói,25000,0,10,40000,15000,,TT Ngọc Hạnh - Đ.Mối,-10000,,False,1500.0
+683,TB20001,Tăm bông thân gỗ hộp 200 cây x 12 hộp,Hộp,299250,3,18,370300,71050,,TT Ngọc Hạnh - Đ.Mối,-228200,,True,3947.222222222222
+684,TBTE1001,Tăm bông thân nhựa TE túi 100 cây x 24 túi,Túi,378000,12,72,432000,54000,,TT Ngọc Hạnh - Đ.Mối,-324000,,True,750.0
+685,TBTE20002,Tăm bông thân nhựa TE hộp tròn 200 cây x 12 hộp,Hộp,178500,2,12,185200,6700,,TT Ngọc Hạnh - Đ.Mối,-171800,,True,558.3333333333334
+686,TBTE20003,Tăm bông thân giấy TE hộp chữ nhật 200 cây x 12 hộp,Hộp,346500,3,18,370300,23800,,TT Ngọc Hạnh - Đ.Mối,-322700,,True,1322.2222222222222
+687,GC106,GVS Ruby (HQ) 10 cuộn x 8kg,Cây,180000,0,10,220000,40000,,Chị Thắm (Hồng Thắm) - B.H.Tây,-140000,,False,4000.0
+688,HMK1,Yến sào Finenest kids xanh 1 lọ x 60 hộp,Hộp,384000,8,24,630000,246000,,Kim Hường - B.H.Tây,-138000,,True,10250.0
+689,HTBTE50,Bánh gạo TE Happy Bites Việt Quất 50g x 12 hộp,Hộp,181200,1,4,156000,-25200,,TT Đông Nguyên - M.Long,-206400,,True,-6300.0
+690,HTBTE501,Bánh gạo TE Happy Bites Táo 50g x 12 hộp,Hộp,181200,0,4,200000,18800,,TT Đông Nguyên - M.Long,-162400,,False,4700.0
+691,HTBTE502,Bánh gạo TE Happy Bites Chuối 50g x 12 hộp,Hộp,181200,0,4,200000,18800,,TT Đông Nguyên - M.Long,-162400,,False,4700.0
+692,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,4,48,536000,190400,,Như Ý - M.Trắng,-155200,,True,3966.6666666666665
+693,HM601,HIMA DAILY (new) 6 lọ x 6 hộp,Hộp,1152000,0,6,1440000,288000,,Phước Hải - A.Bình,-864000,,False,48000.0
+694,KMQCL,Quạt SENKO 1638 chân lỡ,Cây,0,1,0,-281000,-281000,,Phước Hải - A.Bình,-281000,,True,0.0
+695,KTN2001,Kẹo Trang Nghiêm ME CAM THẢO 200gr x 50 gói/thùng,Gói,122000,0,10,125000,3000,,Phước Hải - A.Bình,-119000,,False,300.0
+696,KTN2002,Kẹo Trang Nghiêm DÂU TÂY 200gr x 50 gói/thùng,Gói,122000,0,10,125000,3000,,Phước Hải - A.Bình,-119000,,False,300.0
+697,KTN2003,Kẹo Trang Nghiêm DÂU TẰM 200gr x 50 gói/thùng,Gói,122000,0,10,125000,3000,,Phước Hải - A.Bình,-119000,,False,300.0
+698,KTN2004,Kẹo Trang Nghiêm ME ỚT 200gr x 50 gói/thùng,Gói,122000,0,10,125000,3000,,Phước Hải - A.Bình,-119000,,False,300.0
+699,KR1001,Khăn giấy rút lụa SSS BiBi 2 lớp x 1kg x 10 gói,Gói,480000,2,10,434000,-46000,,Thanh Nhã - M.Long,-526000,,True,-4600.0
+700,GC605,GVS Ruby 6 cuộn Mèo (không lõi) x 10 cây,Cây,290000,1,10,355000,65000,,MP Nhanh - M.Hiệp,-225000,,True,6500.0
+701,KV1001,Khăn Napkin Ruby Gold 100 tờ x 30 gói,Gói,1125000,30,150,1350000,225000,,MP Nhanh - M.Hiệp,-900000,,True,1500.0
+702,GC605,GVS Ruby 6 cuộn Mèo (không lõi) x 10 cây,Cây,290000,1,10,355000,65000,,TT Nguyễn Thị Định - M.Xương,-225000,,True,6500.0
+703,KT50-4,Khẩu trang y tế 4 lớp MEDICAL MASK 50 x 50 hộp,Hộp,160000,0,10,180000,20000,,TT Nguyễn Thị Định - M.Xương,-140000,,False,2000.0
+704,KU1505,Khăn ướt TE TiOne 150g x 30 gói,Gói,100000,2,10,150000,50000,,TT Kim Dung - M.Hiệp,-50000,,True,5000.0
+705,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,0,0,0,0,0,,Thế Giới Con Cưng - HCL,0,,False,0.0
+706,TBTE20003,Tăm bông thân giấy TE hộp chữ nhật 200 cây x 12 hộp,Hộp,231000,2,12,288000,57000,,Thế Giới Con Cưng - HCL,-174000,,True,4750.0
+707,KU100,Khăn ướt Begin 100 tờ x 20 gói,Gói,102000,0,6,144000,42000,,Vương Quốc Sữa - B.H.Trung,-60000,,False,7000.0
+708,BCN198,BC KAKA NANO N198 x 20 x 15 hộp,Cây,135000,0,30,300000,165000,,Trinh Nữ - M.Trắng,30000,,False,5500.0
+709,GC100,GVS cuộn trắng rẻ (xá) x 10 cây,Bao,57000,0,1,75000,18000,,Trinh Nữ - M.Trắng,-39000,,False,18000.0
+710,GC606,GVS TiOne Gấu 6 cuộn x 12 cây,Cây,155004,0,6,222000,66996,,Trinh Nữ - M.Trắng,-88008,,False,11166.0
+711,GC617,GVS TiOne hồng 6 cuộn x 12 cây,Cây,0,1,0,-31000,-31000,,Trinh Nữ - M.Trắng,-31000,,True,0.0
+712,KKDN300,Khăn khô đa năng 300gr x 30 gói,Gói,1069200,3,27,1069200,0,,Thế Giới Con Cưng - B.H.Tây,-1069200,,True,0.0
+713,GC100,GVS cuộn trắng rẻ (xá) x 10 cây,Bao,114000,0,2,140000,26000,,Tuấn Kiệt - M.Long,-88000,,False,13000.0
+714,HTBG145,Bánh gạo Bin Bin Tuyết Cay 145g x 20 gói,Gói,156640,0,5,175000,18360,,Tuấn Kiệt - M.Long,-138280,,False,3672.0
+715,HTBG1502,Bánh gạo Bin Bin Rong Biển 150g x 20 gói,Gói,138600,0,5,160000,21400,,Tuấn Kiệt - M.Long,-117200,,False,4280.0
+716,NSSK555,Saka 555ml x 24 chai,Thùng,156000,0,2,156000,0,,Tuấn Kiệt - M.Long,-156000,,False,0.0
+717,KR1001,Khăn giấy rút lụa SSS BiBi 2 lớp x 1kg x 10 gói,Gói,960000,2,20,954000,-6000,,Quán bê thui Cảnh Nhớ - HCL ,-966000,,True,-300.0
+718,TT01,Thanh toán lần 1,VNĐ,0,0,0,-940000,-940000,,Quán bê thui Cảnh Nhớ - HCL ,-940000,,False,0.0
+719,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,600000,6,6,654000,54000,,Chị Bích - T.Linh,-546000,,True,9000.0
+720,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,0,12,0,-1308000,-1308000,,TT Huệ Long - T.H.Trung,-1308000,,True,0.0
+721,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,1200000,0,12,2616000,1416000,,TT Huệ Long - T.H.Trung,216000,,False,118000.0
+722,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,600000,6,6,654000,54000,,TT Huệ Long - T.H.Trung,-546000,,True,9000.0
+723,KV60,Khăn Napkin Ruby hồng 64 gói,Gói,0,0,0,0,0,,Chị Thủy (đồ nhựa) - T.H.Trung,0,,False,0.0
+724,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,600000,0,6,1308000,708000,,Shop Thảo Tâm - A.Bình,108000,,False,118000.0
+725,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,0,6,0,-654000,-654000,,Shop Thảo Tâm - A.Bình,-654000,,True,0.0
+726,HTBSN903,Snack bắp Otori vị Rong Biển 90g x 12,Lon,332640,0,12,384000,51360,,Shop Thảo Tâm - A.Bình,-281280,,False,4280.0
+727,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,4,48,536000,190400,,Thế Giới Con Cưng - HCL,-155200,,True,3966.6666666666665
+728,HM110,Yến sào Finenest Saffron (hoa nghệ tây) x 10 hộp,Hộp,0,3,0,-327000,-327000,,Phúc Nguyên - B.Sao,-327000,,True,0.0
+729,HM607,Yến sào Seunest KĐ xanh x 6 hộp,Hộp,100000,0,1,218000,118000,,Phúc Nguyên - B.Sao,18000,,False,118000.0
+730,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,100000,0,1,218000,118000,,Phúc Nguyên - B.Sao,18000,,False,118000.0
+731,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,100000,0,1,218000,118000,,Phúc Nguyên - B.Sao,18000,,False,118000.0
+732,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,900000,3,9,1635000,735000,,Tú Anh - T.Nghĩa,-165000,,True,81666.66666666667
+733,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,0,6,0,-654000,-654000,,Tú Anh - T.Nghĩa,-654000,,True,0.0
+734,HTBSN80,Snack bắp Otori vị Phô Mai 80g x 12,Lon,55440,0,2,60000,4560,,Kim Thủy - Chợ 307,-50880,,False,2280.0
+735,HTBSN90,Snack bắp Otori vị Gà cay 90g x 12,Lon,55440,0,2,60000,4560,,Kim Thủy - Chợ 307,-50880,,False,2280.0
+736,HTBSN901,Snack bắp Otori vị Mực nướng 90g x 12,Lon,55440,0,2,60000,4560,,Kim Thủy - Chợ 307,-50880,,False,2280.0
+737,HTBSN902,Snack bắp Otori vị Tomyum Kung 90g x 12,Lon,55440,0,2,60000,4560,,Kim Thủy - Chợ 307,-50880,,False,2280.0
+738,HTBSN903,Snack bắp Otori vị Rong Biển 90g x 12,Lon,55440,0,2,60000,4560,,Kim Thủy - Chợ 307,-50880,,False,2280.0
+739,HTBSN904,Snack bắp Otori vị Dừa 80g x 12,Lon,55440,0,2,60000,4560,,Kim Thủy - Chợ 307,-50880,,False,2280.0
+740,HTBSN80,Snack bắp Otori vị Phô Mai 80g x 12,Lon,55440,0,2,64000,8560,,Thuận Kiều (nhà may) - Chợ 307,-46880,,False,4280.0
+741,HTBSN90,Snack bắp Otori vị Gà cay 90g x 12,Lon,55440,0,2,64000,8560,,Thuận Kiều (nhà may) - Chợ 307,-46880,,False,4280.0
+742,HTBSN901,Snack bắp Otori vị Mực nướng 90g x 12,Lon,55440,0,2,64000,8560,,Thuận Kiều (nhà may) - Chợ 307,-46880,,False,4280.0
+743,HTBSN902,Snack bắp Otori vị Tomyum Kung 90g x 12,Lon,55440,0,2,64000,8560,,Thuận Kiều (nhà may) - Chợ 307,-46880,,False,4280.0
+744,HTBSN903,Snack bắp Otori vị Rong Biển 90g x 12,Lon,55440,0,2,64000,8560,,Thuận Kiều (nhà may) - Chợ 307,-46880,,False,4280.0
+745,HM8,Khánh Hòa SmileNest Vàng ( CĐ) 6 lọ x 8 hộp,Hộp,392000,0,4,960000,568000,,Nhung Nhựt - N.V.Tiếp,176000,,False,142000.0
+746,HM801,Khánh Hòa SmileNest Đỏ ( Canxi) 6 lọ x 8 hộp,Hộp,392000,0,4,960000,568000,,Nhung Nhựt - N.V.Tiếp,176000,,False,142000.0
+747,HMK1,Yến sào Finenest kids xanh 1 lọ x 60 hộp,Hộp,80000,3,5,111000,31000,,Thái Nguyên - T.Linh,-49000,,True,6200.0
+748,HMK102,Yến sào Nicenest Kids đỏ 1 lọ x 60 hộp,Hộp,80000,2,5,137000,57000,,Thái Nguyên - T.Linh,-23000,,True,11400.0
+749,HM8,Khánh Hòa SmileNest Vàng ( CĐ) 6 lọ x 8 hộp,Hộp,392000,0,4,960000,568000,,Tuấn Quyên - P.Thịnh,176000,,False,142000.0
+750,HM801,Khánh Hòa SmileNest Đỏ ( Canxi) 6 lọ x 8 hộp,Hộp,392000,0,4,960000,568000,,Tuấn Quyên - P.Thịnh,176000,,False,142000.0
+751,KTN2002,Kẹo Trang Nghiêm DÂU TÂY 200gr x 50 gói/thùng,Gói,61000,0,5,70000,9000,,Tuấn Quyên - P.Thịnh,-52000,,False,1800.0
+752,KTN2003,Kẹo Trang Nghiêm DÂU TẰM 200gr x 50 gói/thùng,Gói,61000,0,5,70000,9000,,Tuấn Quyên - P.Thịnh,-52000,,False,1800.0
+753,GC603,GVS Ruby Gold 6 cuộn (không lõi) x 12 cây,Cây,300000,1,12,410000,110000,,Chị Tuyết - HCL (N.Mỹ),-190000,,True,9166.666666666666
+754,KR1500,Khăn rút TiOne treo tường 1500 tờ x 15 gói,Gói,285000,0,15,375000,90000,,Chị Tuyết - HCL (N.Mỹ),-195000,,False,6000.0
+755,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,600000,0,6,1308000,708000,,Ngọc Thu - P.Thịnh,108000,,False,118000.0
+756,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,0,6,0,-654000,-654000,,Ngọc Thu - P.Thịnh,-654000,,True,0.0
+757,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,1155000,0,150,1350000,195000,,Ngọc Thu - P.Thịnh,-960000,,False,1300.0
+758,GC603,GVS Ruby Gold 6 cuộn (không lõi) x 12 cây,Cây,300000,0,12,408000,108000,,Thông Thảo - P.Mỹ (QL30),-192000,,False,9000.0
+759,KV1001,Khăn Napkin Ruby Gold 100 tờ x 30 gói,Gói,450000,0,60,540000,90000,,Thông Thảo - P.Mỹ (QL30),-360000,,False,1500.0
+760,BG5200,"Bột giặt Lady 107 -  5,2kg x 3 gói/thùng",Gói,1411920,0,12,1908000,496080,,Thu Thủy - P.Mỹ (cầu Trâu Trắng),-915840,,False,41340.0
+761,TNS1,Tẩy toilet Nam Sơn NK 100% 1L x 12 chai,Chai,0,12,0,-318000,-318000,,Thu Thủy - P.Mỹ (cầu Trâu Trắng),-318000,,True,0.0
+762,TT01,Thanh toán lần 1,VNĐ,0,0,0,-908000,-908000,,Thu Thủy - P.Mỹ (cầu Trâu Trắng),-908000,,False,0.0
+763,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,172800,2,24,268000,95200,,Phượng Loan - N.V.Tiếp,-77600,,True,3966.6666666666665
+764,GC617,GVS TiOne hồng 6 cuộn x 12 cây,Cây,265716,0,12,360000,94284,,Căn tin BV Phổi( Chị Duyên) - BV phổi,-171432,,False,7857.0
+765,KV1002,Khăn Napkin TiOne nâu 100 tờ x 30 gói,Gói,648000,0,90,846000,198000,,Căn tin BV Phổi( Chị Duyên) - BV phổi,-450000,,False,2200.0
+766,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,0,0,0,0,0,,Minh Hiền (chị Ớ) - B.H.Trung,0,,False,0.0
+767,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,0,0,0,0,0,,Minh Hiền (chị Ớ) - B.H.Trung,0,,False,0.0
+768,JA1KG,Javel 1L x 12 chai,Chai,0,36,0,-468000,-468000,,Minh Hiền (chị Ớ) - B.H.Trung,-468000,,True,0.0
+769,NGT3600,"Nước giặt Kimono (đen) 3,6kg x 5 túi",Túi,370000,0,5,675000,305000,,Minh Hiền (chị Ớ) - B.H.Trung,-65000,,False,61000.0
+770,NGT36001,"Nước giặt Kimono (tím) 3,6kg x 5 túi",Túi,740000,0,10,1350000,610000,,Minh Hiền (chị Ớ) - B.H.Trung,-130000,,False,61000.0
+771,GC10,V/S Bibi không lõi x 10 dây,Dây,260000,0,10,240000,-20000,,Chị Linh (bán bọc) - HCL,-280000,,False,-2000.0
+772,KV1001,Khăn Napkin Ruby Gold 100 tờ x 30 gói,Gói,450000,0,60,510000,60000,,Chị Linh (bán bọc) - HCL,-390000,,False,1000.0
+773,KV320,Khăn Napkin Fairy 320 x 100 tờ x 48 gói,Gói,528000,0,48,432000,-96000,,Thanh Trang - HCL,-624000,,False,-2000.0
+774,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,0,48,518400,172800,,Xuân Bình - M.Hiệp,-172800,,False,3600.0
+775,HM110,Yến sào Finenest Saffron (hoa nghệ tây) x 10 hộp,Hộp,0,1,0,0,0,,Chị Thắm (Hồng Thắm) - B.H.Tây,0,,True,0.0
+776,HM613,HIMA Seunest DTHT có đường 6 lọ x 6 hộp,Hộp,130000,0,1,280000,150000,,Chị Thắm (Hồng Thắm) - B.H.Tây,20000,,False,150000.0
+777,KV1009,Khăn Napkin TiOne Gấu 100 tờ x 48 gói,Gói,288000,0,48,360000,72000,,Chị Đào - T.H.Trung,-216000,,False,1500.0
+778,A1K15,Kẹo bạc hà (chanh muối) Himalaya 15g x 12 gói x 12 hộp,Hộp,362268,1,6,340000,-22268,,TT Đông Nguyên - M.Long,-384536,,True,-3711.3333333333335
+779,KU801,Khăn ướt Baby (đỏ) 80g x 50 gói,Gói,200000,0,50,300000,100000,,TT Đông Nguyên - M.Long,-100000,,False,2000.0
+780,BBL13,Bánh bông lan SHINO vị dâu 13 cái x 18 hộp,Hộp,102000,0,6,126000,24000,,Trung Phụng - T.H.Trung,-78000,,False,4000.0
+781,BBL131,Bánh bông lan SHINO vị cốm 13 cái x 18 hộp,Hộp,102000,0,6,126000,24000,,Trung Phụng - T.H.Trung,-78000,,False,4000.0
+782,BBL132,Bánh bông lan SHINO vị sữa chua 13 cái x 18 hộp,Hộp,102000,0,6,126000,24000,,Trung Phụng - T.H.Trung,-78000,,False,4000.0
+783,BCN198,BC KAKA NANO N198 x 20 x 15 hộp,Cây,180000,0,40,320000,140000,,Ngọc Như - M.Long,-40000,,False,3500.0
+784,GC100,GVS cuộn trắng rẻ (xá) x 10 cây,Bao,114000,0,2,140000,26000,,Ngọc Như - M.Long,-88000,,False,13000.0
+785,KV1011,Khăn Napkin EMos x 30 gói,Gói,200010,0,30,210000,9990,,Ngọc Như - M.Long,-190020,,False,333.0
+786,TBTE1001,Tăm bông thân nhựa TE túi 100 cây x 24 túi,Túi,126000,2,24,144000,18000,,Ngọc Như - M.Long,-108000,,True,750.0
+787,GC606,GVS TiOne Gấu 6 cuộn x 12 cây,Cây,620016,4,24,762000,141984,,Chú 7 Vân - B.H.Tây,-478032,,True,5916.0
+788,KV100,Khăn Napkin Toply 100 tờ x 48 gói,Gói,345600,4,48,536000,190400,,TH Trinh (Mỹ Trinh) - HCL (cuối chợ),-155200,,True,3966.6666666666665
+789,8936017991012,V/S Fairy cao cấp 10 cuộn 4 lớp,Dây,824040,0,10,570000,-254040,,MP Nhanh - M.Hiệp,-1078080,,False,-25404.0
+790,KDL1301,Khăn du lịch GIA PHÁT 3 lớp x 130 tờ x 100 gói,Gói,35000,0,10,65000,30000,,TT Kim Dung - M.Hiệp,-5000,,False,3000.0
+791,KU203,Khăn ướt TiOne 20g x 100 gói,Gói,25000,0,10,40000,15000,,TT Kim Dung - M.Hiệp,-10000,,False,1500.0
+792,TC301,Tăm chỉ nha khoa 30 chiếc x 10 hộp,Hộp,0,0,0,0,0,,TT Kim Dung - M.Hiệp,0,,False,0.0
+793,HM603,HIMA Vinnest 6 lọ KĐ x 6 hộp,Hộp,100000,0,1,170000,70000,,Vương Quốc Sữa - B.H.Trung,-30000,,False,70000.0
+794,HMH8,HIMA Huyết Yến 6 lọ x 8 hộp,Hộp,253800,0,1,243000,-10800,,Vương Quốc Sữa - B.H.Trung,-264600,,False,-10800.0
+795,GC100,GVS cuộn trắng rẻ (xá) x 10 cây,Bao,285000,0,5,350000,65000,,Anh Tân (chị Phớt) - M.Xương,-220000,,False,13000.0
+796,HM601,HIMA DAILY (new) 6 lọ x 6 hộp,Hộp,1536000,2,8,1536000,0,,Anh Tân (chị Phớt) - M.Xương,-1536000,,True,0.0
+797,KMBN,Bộ nồi 3 cái,Bộ,0,1,0,0,0,,Tuấn Kiệt - M.Long,0,,True,0.0
+798,KU1508,Khăn ướt Ruby & Gold 150g x 30 gói,Gói,400000,0,40,720000,320000,,Tuấn Kiệt - M.Long,-80000,,False,8000.0
+799,KU2501,Khăn ướt TiOne (khổ lớn) 250g x 20 gói,Gói,230000,0,20,360000,130000,,Tuấn Kiệt - M.Long,-100000,,False,6500.0
+800,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,231000,0,30,300000,69000,,Cô Trúc - M.Hội ,-162000,,False,2300.0
+801,BBL13,Bánh bông lan SHINO vị dâu 13 cái x 18 hộp,Hộp,102000,0,6,132000,30000,,Cẩm Giang - M.Xương,-72000,,False,5000.0
+802,BBL131,Bánh bông lan SHINO vị cốm 13 cái x 18 hộp,Hộp,102000,0,6,132000,30000,,Cẩm Giang - M.Xương,-72000,,False,5000.0
+803,BBL132,Bánh bông lan SHINO vị sữa chua 13 cái x 18 hộp,Hộp,102000,0,6,132000,30000,,Cẩm Giang - M.Xương,-72000,,False,5000.0
+804,HTBD121,Bánh đũa Gap Sô cô la 12g x 12 hộp x 12,Hộp,42084,0,1,48000,5916,,Cẩm Giang - M.Xương,-36168,,False,5916.0
+805,KTN3001,Kẹo Trang Nghiêm DÂU TÂY hộp 200g x 24 hộp/thùng,Hộp,0,0,0,0,0,,Cẩm Giang - M.Xương,0,,False,0.0
+806,KTN3003,Kẹo Trang Nghiêm ME ỚT hộp 200g x 24 hộp/thùng,Hộp,0,0,0,0,0,,Cẩm Giang - M.Xương,0,,False,0.0
+807,HM110,Yến sào Finenest Saffron (hoa nghệ tây) x 10 hộp,Hộp,0,3,0,-327000,-327000,,Sữa tả Hoàng Trúc - HCL (T.Mỹ),-327000,,True,0.0
+808,HM613,HIMA Seunest DTHT có đường 6 lọ x 6 hộp,Hộp,780000,0,6,1680000,900000,,Sữa tả Hoàng Trúc - HCL (T.Mỹ),120000,,False,150000.0
+809,NLC2N,C2 nhỏ,Thùng,0,0,0,0,0,,Quán Cafe Sakê - HCL ( Thanh Mỹ),0,,False,0.0
+810,TBND500,Nước Yến Nha Đam (Pet) 500ml x 24 chai,Thùng,326970,0,2,378000,51030,,Quán Cafe Sakê - HCL ( Thanh Mỹ),-275940,,False,25515.0
+811,BBL13,Bánh bông lan SHINO vị dâu 13 cái x 18 hộp,Hộp,102000,0,6,126000,24000,,ĐL Bia Anh Vũ - Láng Biển,-78000,,False,4000.0
+812,BBL131,Bánh bông lan SHINO vị cốm 13 cái x 18 hộp,Hộp,102000,0,6,126000,24000,,ĐL Bia Anh Vũ - Láng Biển,-78000,,False,4000.0
+813,BBL132,Bánh bông lan SHINO vị sữa chua 13 cái x 18 hộp,Hộp,102000,0,6,126000,24000,,ĐL Bia Anh Vũ - Láng Biển,-78000,,False,4000.0
+814,KV1007,Khăn Napkin An An 100 tờ x 40 gói,Gói,270000,0,40,320000,50000,,ĐL Bia Anh Vũ - Láng Biển,-220000,,False,1250.0
+815,KV320,Khăn Napkin Fairy 320 x 100 tờ x 48 gói,Gói,528000,0,48,432000,-96000,,ĐL Bia Anh Vũ - Láng Biển,-624000,,False,-2000.0
+816,HM608,Yến sào Seunest CĐ vàng x 6 hộp,Hộp,0,0,0,0,0,,Nhung Nhựt - N.V.Tiếp,0,,False,0.0
+817,HM610,Yến sào Finenest CĐ đỏ x 6 hộp,Hộp,0,0,0,0,0,,Nhung Nhựt - N.V.Tiếp,0,,False,0.0
+818,BV500,BÒ VIÊN II 60 viên x 500gr,Gói,109250,0,5,150000,40750,,Chị Bích - T.Linh,-68500,,False,8150.0
+819,CV500,CÁ VIÊN II 60 viên x 500gr,Gói,106750,0,5,150000,43250,,Chị Bích - T.Linh,-63500,,False,8650.0
+820,XX500,XÚC XÍCH TƯƠI XÔNG KHÓI 10 cây x 500g,Gói,135000,0,5,175000,40000,,Chị Bích - T.Linh,-95000,,False,8000.0
+821,HTK151,Kẹo Tommy trái cây 15g x 12 gói x 12 dây,Dây,150000,0,4,164000,14000,,Chị Thủy - P.Thịnh,-136000,,False,3500.0
+822,BV500,BÒ VIÊN II 60 viên x 500gr,Gói,109250,0,5,140000,30750,,8 Kịp - P.Thịnh,-78500,,False,6150.0
+823,CV500,CÁ VIÊN II 60 viên x 500gr,Gói,106750,0,5,140000,33250,,8 Kịp - P.Thịnh,-73500,,False,6650.0
+824,GC10,V/S Bibi không lõi x 10 dây,Dây,260000,0,10,240000,-20000,,8 Kịp - P.Thịnh,-280000,,False,-2000.0
+825,XX500,XÚC XÍCH TƯƠI XÔNG KHÓI 10 cây x 500g,Gói,0,0,0,0,0,,8 Kịp - P.Thịnh,0,,False,0.0
+826,KU250,Khăn ướt TE Villa 250g x 30 gói,Gói,77000,0,10,100000,23000,,Chị Thắm - P.Thịnh,-54000,,False,2300.0
+827,BV500,BÒ VIÊN II 60 viên x 500gr,Gói,43700,0,2,56000,12300,,TT Chị Điệp - P.Thịnh,-31400,,False,6150.0
+828,CV500,CÁ VIÊN II 60 viên x 500gr,Gói,42700,0,2,52000,9300,,TT Chị Điệp - P.Thịnh,-33400,,False,4650.0
+829,HM613,HIMA Seunest DTHT có đường 6 lọ x 6 hộp,Hộp,0,1,0,-130000,-130000,,TT Chị Điệp - P.Thịnh,-130000,,True,0.0
+830,HM614,HIMA Seunest Colagen có đường 6 lọ x 6 hộp,Hộp,260000,0,2,560000,300000,,TT Chị Điệp - P.Thịnh,40000,,False,150000.0
+831,XX500,XÚC XÍCH TƯƠI XÔNG KHÓI 10 cây x 500g,Gói,54000,0,2,66000,12000,,TT Chị Điệp - P.Thịnh,-42000,,False,6000.0
+832,BV500,BÒ VIÊN II 60 viên x 500gr,Gói,109250,0,5,140000,30750,,5 Bún - P.Thịnh,-78500,,False,6150.0
+833,CV500,CÁ VIÊN II 60 viên x 500gr,Gói,106750,0,5,140000,33250,,5 Bún - P.Thịnh,-73500,,False,6650.0
+834,XX500,XÚC XÍCH TƯƠI XÔNG KHÓI 10 cây x 500g,Gói,135000,0,5,165000,30000,,5 Bún - P.Thịnh,-105000,,False,6000.0
+835,HMK1,Yến sào Finenest kids xanh 1 lọ x 60 hộp,Hộp,0,0,0,0,0,,Ngọc Thu - P.Thịnh,0,,False,0.0
+836,HMK102,Yến sào Nicenest Kids đỏ 1 lọ x 60 hộp,Hộp,0,0,0,0,0,,Ngọc Thu - P.Thịnh,0,,False,0.0
+837,BV500,BÒ VIÊN II 60 viên x 500gr,Gói,43700,0,2,60000,16300,,Tú Kiều - T.Nghĩa,-27400,,False,8150.0
+838,GC10,V/S Bibi không lõi x 10 dây,Dây,260000,0,10,230000,-30000,,Tú Kiều - T.Nghĩa,-290000,,False,-3000.0
+839,GC1023,V/S Bibi có lõi x 10 dây,Dây,245000,0,10,230000,-15000,,Tú Kiều - T.Nghĩa,-260000,,False,-1500.0
+840,GC603,GVS Ruby Gold 6 cuộn (không lõi) x 12 cây,Cây,150000,0,6,192000,42000,,Tú Kiều - T.Nghĩa,-108000,,False,7000.0
+841,XX500,XÚC XÍCH TƯƠI XÔNG KHÓI 10 cây x 500g,Gói,54000,0,2,70000,16000,,Tú Kiều - T.Nghĩa,-38000,,False,8000.0
